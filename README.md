@@ -10,7 +10,9 @@ Links:
 
 ## Network automation -- IA3
 ### Code
-Code available in the folder ...
+Network asset management. Simulation tool developed in Julia. Access via this link: https://github.com/mperhez/NAssets.jl
+
+Other code available in the folder ...
 
 ### Publications
 Links:
