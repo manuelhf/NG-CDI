@@ -18,7 +18,8 @@ Links:
 ## Network management and service assurance -- IA4
 
 ### Code
-Code available in the folder ...
+Code available in the followoing folders:
+- Anomaly_Detection
 
 ### Publications
 Links:
