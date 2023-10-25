@@ -19,7 +19,8 @@ Links:
 
 ### Code
 Code available in the followoing folders:
-- Anomaly_Detection
+- Anomaly_Detector_GUI
+- ... 
 
 ### Publications
 Links:
