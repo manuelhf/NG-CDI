@@ -12,7 +12,7 @@ Links:
 ### Code
 Network asset management. Simulation tool developed in Julia. Access via this link: https://github.com/mperhez/NAssets.jl
 
-Other code available in the folder ...
+Other code available in the folder Maintenance planning and traffic rerouting optimization
 
 ### Publications
 Links:
