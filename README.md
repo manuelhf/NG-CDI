@@ -22,7 +22,9 @@ Links:
 ### Code
 Code available in the followoing folders:
 - Anomaly_Detector_GUI
-- ... 
+- ...
+
+Additional code source is the relted to the demo presented at the Spotlight workshop at Adastral Park
 
 ### Publications
 Links:
