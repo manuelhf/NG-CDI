@@ -1,0 +1,602 @@
+antecedents,consequents,support,confidence,lift
+IKE Negotiation Failure,Inter-System Communication Failure,0.343,0.59,1.285
+Remote Maintenance Link Failure,Inter-System Communication Failure,0.244,0.618,1.345
+BBU Topology and Configuration Mismatch,Inter-System Communication Failure,0.215,0.755,1.644
+"IKE Negotiation Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.186,0.711,1.548
+"BBU Topology and Configuration Mismatch', 'IKE Negotiation Failure",Inter-System Communication Failure,0.169,0.853,1.857
+User Plane Fault,Inter-System Communication Failure,0.14,0.429,0.933
+"BBU Topology and Configuration Mismatch', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.134,0.821,1.788
+NR DU Cell Blocked,Inter-System Communication Failure,0.128,0.386,0.84
+"IKE Negotiation Failure', 'User Plane Fault",Inter-System Communication Failure,0.116,0.5,1.089
+"Remote Maintenance Link Failure', 'User Plane Fault",Inter-System Communication Failure,0.105,0.621,1.351
+"BBU Topology and Configuration Mismatch', 'IKE Negotiation Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.105,0.947,2.063
+gNodeB Out of Service,Inter-System Communication Failure,0.093,0.444,0.968
+"User Plane Fault', 'IKE Negotiation Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.087,0.652,1.42
+"gNodeB Out of Service', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.076,0.65,1.415
+"BBU Topology and Configuration Mismatch', 'User Plane Fault",Inter-System Communication Failure,0.07,0.857,1.866
+"NR DU Cell Blocked', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.07,0.571,1.244
+"IKE Negotiation Failure', 'NR DU Cell Blocked",Inter-System Communication Failure,0.064,0.44,0.958
+Transmission Optical Interface Error,Inter-System Communication Failure,0.064,0.55,1.197
+"BBU Topology and Configuration Mismatch', 'Remote Maintenance Link Failure', 'User Plane Fault",Inter-System Communication Failure,0.064,0.846,1.842
+"gNodeB Out of Service', 'IKE Negotiation Failure",Inter-System Communication Failure,0.058,0.476,1.037
+"BBU Topology and Configuration Mismatch', 'NR DU Cell Blocked",Inter-System Communication Failure,0.058,0.625,1.361
+"BBU Topology and Configuration Mismatch', 'IKE Negotiation Failure', 'User Plane Fault",Inter-System Communication Failure,0.058,0.909,1.979
+"gNodeB Out of Service', 'IKE Negotiation Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.052,0.75,1.633
+"Transmission Optical Interface Error', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.052,0.75,1.633
+"BBU Topology and Configuration Mismatch', 'Remote Maintenance Link Failure', 'IKE Negotiation Failure', 'User Plane Fault",Inter-System Communication Failure,0.052,0.9,1.959
+"Transmission Optical Interface Error', 'IKE Negotiation Failure",Inter-System Communication Failure,0.047,0.571,1.244
+"BBU Topology and Configuration Mismatch', 'gNodeB Out of Service",Inter-System Communication Failure,0.047,0.727,1.583
+"IKE Negotiation Failure', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.047,0.727,1.583
+RF Unit DC Input Power Failure,Inter-System Communication Failure,0.047,0.381,0.829
+Inter-BBU Port Failure,Inter-System Communication Failure,0.047,0.444,0.968
+"Transmission Optical Interface Error', 'gNodeB Out of Service",Inter-System Communication Failure,0.041,0.583,1.27
+"gNodeB Out of Service', 'NR DU Cell Blocked",Inter-System Communication Failure,0.041,0.5,1.089
+"RF Unit DC Input Power Failure', 'NR DU Cell Blocked",Inter-System Communication Failure,0.041,0.467,1.016
+"Transmission Optical Interface Error', 'gNodeB Out of Service', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.041,0.875,1.905
+"RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'RF Unit Maintenance Link Failure",Inter-System Communication Failure,0.035,0.5,1.089
+"BBU Topology and Configuration Mismatch', 'gNodeB Out of Service', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.035,0.75,1.633
+"BBU Topology and Configuration Mismatch', 'Transmission Optical Interface Error",Inter-System Communication Failure,0.035,0.857,1.866
+"Transmission Optical Interface Error', 'IKE Negotiation Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.035,0.857,1.866
+"Transmission Optical Interface Error', 'NR DU Cell Blocked",Inter-System Communication Failure,0.035,0.6,1.306
+"NR DU Cell Blocked', 'RF Unit Maintenance Link Failure",Inter-System Communication Failure,0.035,0.462,1.005
+RF Unit Maintenance Link Failure,Inter-System Communication Failure,0.035,0.4,0.871
+"RF Unit DC Input Power Failure', 'RF Unit Maintenance Link Failure",Inter-System Communication Failure,0.035,0.429,0.933
+"NR Cell Unavailable', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.029,0.833,1.814
+"Transmission Optical Interface Error', 'gNodeB Out of Service', 'IKE Negotiation Failure",Inter-System Communication Failure,0.029,0.625,1.361
+"RF Unit DC Input Power Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.029,0.556,1.21
+"BBU Topology and Configuration Mismatch', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.029,0.625,1.361
+"Transmission Optical Interface Error', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.029,0.714,1.555
+"BBU Topology and Configuration Mismatch', 'Transmission Optical Interface Error', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.029,0.833,1.814
+"User Plane Fault', 'gNodeB Out of Service', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.029,0.714,1.555
+"Inter-BBU Port Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.029,0.625,1.361
+"IKE Negotiation Failure', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.029,0.5,1.089
+"NR DU Cell Blocked', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.029,0.556,1.21
+"gNodeB Out of Service', 'User Plane Fault",Inter-System Communication Failure,0.029,0.357,0.778
+"RF Unit DC Input Power Failure', 'IKE Negotiation Failure",Inter-System Communication Failure,0.029,0.5,1.089
+"NR DU Cell Blocked', 'BBU CPRI Interface Error', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.029,0.833,1.814
+"BBU Topology and Configuration Mismatch', 'IKE Negotiation Failure', 'NR DU Cell Blocked",Inter-System Communication Failure,0.029,0.714,1.555
+"Transmission Optical Interface Error', 'gNodeB Out of Service', 'IKE Negotiation Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.029,1.0,2.177
+NR Cell Unavailable,Inter-System Communication Failure,0.029,0.385,0.837
+NR DU Cell TRP Unavailable,Inter-System Communication Failure,0.029,0.455,0.99
+"BBU CPRI Interface Error', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.029,0.833,1.814
+BBU CPRI Interface Error,Inter-System Communication Failure,0.029,0.5,1.089
+"NR DU Cell Blocked', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.029,0.714,1.555
+User Plane Fault,RF Unit CPRI Interface Error,0.023,0.071,1.117
+"RF Unit DC Input Power Failure', 'RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.023,0.667,1.451
+"RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'RF Unit Maintenance Link Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.023,0.667,1.451
+"NR DU Cell Blocked', 'RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.023,0.667,1.451
+"RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.023,0.667,1.451
+"RF Unit DC Input Power Failure', 'NR DU Cell TRP Unavailable",Inter-System Communication Failure,0.023,0.667,1.451
+"RF Unit DC Input Power Failure', 'IKE Negotiation Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.023,0.8,1.742
+"IKE Negotiation Failure', 'RF Unit Maintenance Link Failure",Inter-System Communication Failure,0.023,0.571,1.244
+"gNodeB Out of Service', 'IKE Negotiation Failure', 'User Plane Fault",Inter-System Communication Failure,0.023,0.364,0.792
+"NR DU Cell Blocked', 'User Plane Fault",Inter-System Communication Failure,0.023,0.286,0.622
+"Transmission Optical Interface Error', 'gNodeB Out of Service', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.023,0.8,1.742
+"RF Unit DC Input Power Failure', 'BBU CPRI Interface Error', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.023,0.8,1.742
+"NR DU Cell TRP Unavailable', 'NR Cell Unavailable",Inter-System Communication Failure,0.023,0.444,0.968
+"gNodeB Out of Service', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.023,0.5,1.089
+"RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.023,0.8,1.742
+"NR Cell Unavailable', 'User Plane Fault",Inter-System Communication Failure,0.023,0.667,1.451
+"NR DU Cell TRP Unavailable', 'NR DU Cell Blocked",Inter-System Communication Failure,0.023,0.8,1.742
+"Transmission Optical Interface Error', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.023,0.667,1.451
+"RF Unit DC Input Power Failure', 'RF Unit Maintenance Link Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.023,0.571,1.244
+"RF Unit Maintenance Link Failure', 'RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.023,0.8,1.742
+"gNodeB Out of Service', 'NR DU Cell Blocked', 'IKE Negotiation Failure",Inter-System Communication Failure,0.023,0.4,0.871
+"BBU Topology and Configuration Mismatch', 'NR Cell Unavailable",Inter-System Communication Failure,0.023,0.8,1.742
+"Remote Maintenance Link Failure', 'gNodeB Out of Service', 'IKE Negotiation Failure', 'User Plane Fault",Inter-System Communication Failure,0.023,0.667,1.451
+"BBU Topology and Configuration Mismatch', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.023,0.8,1.742
+"NR DU Cell TRP Unavailable', 'NR Cell Unavailable', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.023,0.8,1.742
+"NR DU Cell Blocked', 'Inter-BBU Port Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.023,0.667,1.451
+"BBU Topology and Configuration Mismatch', 'RF Unit DC Input Power Failure",Inter-System Communication Failure,0.023,0.667,1.451
+"BBU Topology and Configuration Mismatch', 'NR DU Cell TRP Unavailable",Inter-System Communication Failure,0.023,0.8,1.742
+"RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.023,0.667,1.451
+"BBU Topology and Configuration Mismatch', 'gNodeB Out of Service', 'NR DU Cell Blocked",Inter-System Communication Failure,0.023,0.8,1.742
+"NR DU Cell Blocked', 'RF Unit Maintenance Link Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.023,0.667,1.451
+"User Plane Fault', 'NR Cell Unavailable', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.023,0.8,1.742
+"BBU Topology and Configuration Mismatch', 'NR Cell Unavailable', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.023,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'Inter-BBU Port Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.023,0.8,1.742
+"gNodeB Out of Service', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.023,0.667,1.451
+"RF Unit DC Input Power Failure', 'IKE Negotiation Failure', 'NR DU Cell Blocked', 'RF Unit Maintenance Link Failure",Inter-System Communication Failure,0.023,0.667,1.451
+"gNodeB Out of Service', 'NR DU Cell Blocked', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.023,0.667,1.451
+"NR DU Cell TRP Unavailable', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.023,0.667,1.451
+"IKE Negotiation Failure', 'Inter-BBU Port Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.023,1.0,2.177
+"RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.023,0.667,1.451
+"RF Unit DC Input Power Failure', 'IKE Negotiation Failure', 'NR DU Cell Blocked",Inter-System Communication Failure,0.023,0.571,1.244
+"RF Unit DC Input Power Failure', 'IKE Negotiation Failure', 'RF Unit Maintenance Link Failure",Inter-System Communication Failure,0.023,0.571,1.244
+"Transmission Optical Interface Error', 'IKE Negotiation Failure', 'NR DU Cell Blocked",Inter-System Communication Failure,0.023,0.667,1.451
+"Transmission Optical Interface Error', 'Inter-BBU Port Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.023,0.8,1.742
+"IKE Negotiation Failure', 'NR DU Cell Blocked', 'RF Unit Maintenance Link Failure",Inter-System Communication Failure,0.023,0.667,1.451
+"NR DU Cell Blocked', 'RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.023,0.8,1.742
+"RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'BBU CPRI Interface Error', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.023,0.8,1.742
+"Transmission Optical Interface Error', 'gNodeB Out of Service', 'NR DU Cell Blocked",Inter-System Communication Failure,0.023,0.571,1.244
+"RF Unit Maintenance Link Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.023,0.571,1.244
+"BBU Topology and Configuration Mismatch', 'gNodeB Out of Service', 'IKE Negotiation Failure",Inter-System Communication Failure,0.023,0.8,1.742
+"RF Unit DC Input Power Failure', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.023,0.667,1.451
+"RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.023,0.667,1.451
+"Transmission Optical Interface Error', 'User Plane Fault",Inter-System Communication Failure,0.023,0.444,0.968
+"RF Unit DC Input Power Failure', 'RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.023,0.8,1.742
+"Transmission Optical Interface Error', 'gNodeB Out of Service', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.017,0.75,1.633
+"Transmission Optical Interface Error', 'NR DU Cell Blocked', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.017,0.75,1.633
+"gNodeB Out of Service', 'Inter-BBU Port Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.017,0.6,1.306
+"BBU Topology and Configuration Mismatch', 'Transmission Optical Interface Error', 'IKE Negotiation Failure",Inter-System Communication Failure,0.017,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'RF Unit DC Input Power Failure', 'IKE Negotiation Failure",Inter-System Communication Failure,0.017,0.75,1.633
+"BBU Topology and Configuration Mismatch', 'IKE Negotiation Failure', 'NR Cell Unavailable",Inter-System Communication Failure,0.017,0.75,1.633
+"BBU Topology and Configuration Mismatch', 'RF Unit DC Input Power Failure', 'NR DU Cell Blocked",Inter-System Communication Failure,0.017,0.6,1.306
+"BBU Topology and Configuration Mismatch', 'NR DU Cell TRP Unavailable', 'NR DU Cell Blocked",Inter-System Communication Failure,0.017,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'NR Cell Unavailable', 'User Plane Fault",Inter-System Communication Failure,0.017,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'NR DU Cell TRP Unavailable', 'NR Cell Unavailable",Inter-System Communication Failure,0.017,0.75,1.633
+"BBU Topology and Configuration Mismatch', 'Transmission Optical Interface Error', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.017,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'NR DU Cell Blocked', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.017,0.75,1.633
+"BBU Topology and Configuration Mismatch', 'Ethernet Link Fault', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.017,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'IKE Negotiation Failure', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.017,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'Transmission Optical Interface Error', 'Ethernet Link Fault",Inter-System Communication Failure,0.017,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'NR DU Cell Blocked', 'RF Unit Maintenance Link Failure",Inter-System Communication Failure,0.017,0.6,1.306
+"Transmission Optical Interface Error', 'IKE Negotiation Failure', 'User Plane Fault",Inter-System Communication Failure,0.017,0.429,0.933
+"IKE Negotiation Failure', 'RF Unit Maintenance Link Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.017,0.75,1.633
+"NR Cell Unavailable', 'IKE Negotiation Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.017,0.75,1.633
+"BBU Topology and Configuration Mismatch', 'Transmission Optical Interface Error', 'gNodeB Out of Service",Inter-System Communication Failure,0.017,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'RF Unit DC Input Power Failure', 'RF Unit Maintenance Link Failure",Inter-System Communication Failure,0.017,0.6,1.306
+"BBU Topology and Configuration Mismatch', 'NR DU Cell TRP Unavailable', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.017,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'RF Unit DC Input Power Failure', 'NR DU Cell TRP Unavailable",Inter-System Communication Failure,0.017,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'Transmission Optical Interface Error', 'NR DU Cell Blocked",Inter-System Communication Failure,0.017,0.75,1.633
+"Transmission Optical Interface Error', 'IKE Negotiation Failure', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.017,0.75,1.633
+"IKE Negotiation Failure', 'NR DU Cell Blocked', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.017,0.6,1.306
+"Transmission Optical Interface Error', 'Ethernet Link Fault', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.017,1.0,2.177
+"IKE Negotiation Failure', 'NR DU Cell Blocked', 'RF Unit Maintenance Link Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.017,1.0,2.177
+"Transmission Optical Interface Error', 'IKE Negotiation Failure', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.017,1.0,2.177
+"gNodeB Out of Service', 'NR DU Cell Blocked', 'IKE Negotiation Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.017,0.75,1.633
+"RF Unit DC Input Power Failure', 'IKE Negotiation Failure', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.017,1.0,2.177
+"Transmission Optical Interface Error', 'IKE Negotiation Failure', 'Inter-BBU Port Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.017,1.0,2.177
+"IKE Negotiation Failure', 'NR DU Cell Blocked', 'Inter-BBU Port Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.017,1.0,2.177
+"Transmission Optical Interface Error', 'NR DU Cell Blocked', 'Inter-BBU Port Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.017,0.75,1.633
+"Transmission Optical Interface Error', 'gNodeB Out of Service', 'NR DU Cell Blocked', 'IKE Negotiation Failure",Inter-System Communication Failure,0.017,0.6,1.306
+"RF Unit DC Input Power Failure', 'IKE Negotiation Failure', 'RF Unit Maintenance Link Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.017,0.75,1.633
+"BBU Topology and Configuration Mismatch', 'Transmission Optical Interface Error', 'gNodeB Out of Service', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.017,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'IKE Negotiation Failure', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.017,0.75,1.633
+"BBU Topology and Configuration Mismatch', 'Remote Maintenance Link Failure', 'IKE Negotiation Failure', 'NR Cell Unavailable",Inter-System Communication Failure,0.017,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'gNodeB Out of Service', 'IKE Negotiation Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.017,0.75,1.633
+"BBU Topology and Configuration Mismatch', 'IKE Negotiation Failure', 'Inter-BBU Port Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.017,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'Transmission Optical Interface Error', 'Ethernet Link Fault', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.017,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'Transmission Optical Interface Error', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.017,0.75,1.633
+"BBU Topology and Configuration Mismatch', 'RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'RF Unit Maintenance Link Failure",Inter-System Communication Failure,0.017,0.6,1.306
+"BBU Topology and Configuration Mismatch', 'User Plane Fault', 'Remote Maintenance Link Failure', 'NR Cell Unavailable",Inter-System Communication Failure,0.017,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'NR DU Cell TRP Unavailable', 'Remote Maintenance Link Failure', 'NR Cell Unavailable",Inter-System Communication Failure,0.017,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'Transmission Optical Interface Error', 'Inter-BBU Port Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.017,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'NR DU Cell Blocked', 'Inter-BBU Port Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.017,0.75,1.633
+"NR Cell Unavailable', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'NR DU Cell TRP Unavailable', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.017,1.0,2.177
+"RF Unit Maintenance Link Failure', 'RF Unit DC Input Power Failure', 'IKE Negotiation Failure', 'Remote Maintenance Link Failure', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.017,1.0,2.177
+"RF Unit Maintenance Link Failure', 'IKE Negotiation Failure', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.017,1.0,2.177
+"RF Unit Maintenance Link Failure', 'RF Unit DC Input Power Failure', 'IKE Negotiation Failure', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.017,1.0,2.177
+"gNodeB Out of Service', 'Transmission Optical Interface Error', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.017,0.75,1.633
+"gNodeB Out of Service', 'Transmission Optical Interface Error', 'IKE Negotiation Failure', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.017,1.0,2.177
+"RF Unit Maintenance Link Failure', 'RF Unit DC Input Power Failure', 'IKE Negotiation Failure', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.017,1.0,2.177
+"RF Unit DC Input Power Failure', 'IKE Negotiation Failure', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.017,1.0,2.177
+"NR DU Cell TRP Unavailable', 'Remote Maintenance Link Failure', 'NR DU Cell Blocked', 'NR Cell Unavailable",Inter-System Communication Failure,0.017,1.0,2.177
+"User Plane Fault', 'NR DU Cell TRP Unavailable', 'Remote Maintenance Link Failure', 'NR Cell Unavailable",Inter-System Communication Failure,0.017,0.75,1.633
+"RF Unit DC Input Power Failure', 'NR DU Cell TRP Unavailable', 'Remote Maintenance Link Failure', 'NR Cell Unavailable",Inter-System Communication Failure,0.017,0.75,1.633
+"Transmission Optical Interface Error', 'gNodeB Out of Service', 'Inter-BBU Port Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.017,0.75,1.633
+"Transmission Optical Interface Error', 'gNodeB Out of Service', 'NR DU Cell Blocked', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.017,0.75,1.633
+"gNodeB Out of Service', 'NR DU Cell Blocked', 'Inter-BBU Port Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.017,0.75,1.633
+"RF Unit DC Input Power Failure', 'NR DU Cell TRP Unavailable', 'NR DU Cell Blocked', 'RF Unit Maintenance Link Failure",Inter-System Communication Failure,0.017,0.75,1.633
+"RF Unit Maintenance Link Failure', 'RF Unit DC Input Power Failure', 'IKE Negotiation Failure', 'NR DU Cell Blocked', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.017,0.75,1.633
+"Remote Maintenance Link Failure', 'Transmission Optical Interface Error', 'gNodeB Out of Service', 'User Plane Fault",Inter-System Communication Failure,0.017,1.0,2.177
+"Transmission Optical Interface Error', 'gNodeB Out of Service', 'User Plane Fault",Inter-System Communication Failure,0.017,0.5,1.089
+"RF Unit DC Input Power Failure', 'NR DU Cell TRP Unavailable', 'NR DU Cell Blocked",Inter-System Communication Failure,0.017,0.75,1.633
+"RF Unit DC Input Power Failure', 'NR Cell Unavailable', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.017,0.75,1.633
+"NR DU Cell TRP Unavailable', 'NR Cell Unavailable', 'User Plane Fault",Inter-System Communication Failure,0.017,0.75,1.633
+"RF Unit DC Input Power Failure', 'NR DU Cell TRP Unavailable', 'NR Cell Unavailable",Inter-System Communication Failure,0.017,0.6,1.306
+"NR Cell Unavailable', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.017,1.0,2.177
+"NR DU Cell TRP Unavailable', 'NR DU Cell Blocked', 'RF Unit Maintenance Link Failure",Inter-System Communication Failure,0.017,0.75,1.633
+"NR DU Cell TRP Unavailable', 'NR DU Cell Blocked', 'NR Cell Unavailable",Inter-System Communication Failure,0.017,0.75,1.633
+"Transmission Optical Interface Error', 'Remote Maintenance Link Failure', 'User Plane Fault",Inter-System Communication Failure,0.017,1.0,2.177
+"RF Unit DC Input Power Failure', 'User Plane Fault', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.017,0.6,1.306
+"NR DU Cell TRP Unavailable', 'Remote Maintenance Link Failure', 'User Plane Fault",Inter-System Communication Failure,0.017,0.75,1.633
+"RF Unit DC Input Power Failure', 'NR DU Cell TRP Unavailable', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.017,0.75,1.633
+"RF Unit DC Input Power Failure', 'NR DU Cell TRP Unavailable', 'RF Unit Maintenance Link Failure",Inter-System Communication Failure,0.017,0.6,1.306
+"Transmission Optical Interface Error', 'NR DU Cell Blocked', 'User Plane Fault",Inter-System Communication Failure,0.017,0.75,1.633
+"Remote Maintenance Link Failure', 'NR DU Cell Blocked', 'User Plane Fault",Inter-System Communication Failure,0.017,0.5,1.089
+"NR DU Cell TRP Unavailable', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.017,1.0,2.177
+"NR DU Cell TRP Unavailable', 'NR DU Cell Blocked', 'BBU CPRI Interface Error', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.017,1.0,2.177
+"Remote Maintenance Link Failure', 'NR DU Cell Blocked', 'BBU CPRI Interface Error', 'User Plane Fault",Inter-System Communication Failure,0.017,0.75,1.633
+"NR DU Cell TRP Unavailable', 'Remote Maintenance Link Failure', 'BBU CPRI Interface Error', 'NR Cell Unavailable",Inter-System Communication Failure,0.017,1.0,2.177
+"Remote Maintenance Link Failure', 'NR DU Cell Blocked', 'BBU CPRI Interface Error', 'NR Cell Unavailable",Inter-System Communication Failure,0.017,1.0,2.177
+"NR DU Cell TRP Unavailable', 'NR DU Cell Blocked', 'BBU CPRI Interface Error', 'NR Cell Unavailable",Inter-System Communication Failure,0.017,0.75,1.633
+"RF Unit DC Input Power Failure', 'IKE Negotiation Failure', 'NR DU Cell Blocked', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.017,0.75,1.633
+"IKE Negotiation Failure', 'NR DU Cell Blocked', 'BBU CPRI Interface Error', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.017,1.0,2.177
+"IKE Negotiation Failure', 'NR DU Cell Blocked', 'RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.017,0.75,1.633
+"RF Unit DC Input Power Failure', 'IKE Negotiation Failure', 'RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.017,0.75,1.633
+"IKE Negotiation Failure', 'RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.017,1.0,2.177
+"RF Unit DC Input Power Failure', 'IKE Negotiation Failure', 'BBU CPRI Interface Error', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.017,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'RF Unit Maintenance Link Failure",Inter-System Communication Failure,0.017,0.6,1.306
+"BBU CPRI Interface Error', 'User Plane Fault",Inter-System Communication Failure,0.017,0.6,1.306
+"NR DU Cell Blocked', 'BBU CPRI Interface Error', 'NR Cell Unavailable",Inter-System Communication Failure,0.017,0.75,1.633
+"NR DU Cell TRP Unavailable', 'BBU CPRI Interface Error', 'NR Cell Unavailable",Inter-System Communication Failure,0.017,0.75,1.633
+"NR Cell Unavailable', 'BBU CPRI Interface Error', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.017,1.0,2.177
+"NR DU Cell TRP Unavailable', 'NR DU Cell Blocked', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.017,0.75,1.633
+"Transmission Optical Interface Error', 'Ethernet Link Fault",Inter-System Communication Failure,0.017,1.0,2.177
+Ethernet Link Fault,Inter-System Communication Failure,0.017,1.0,2.177
+"Ethernet Link Fault', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.017,1.0,2.177
+"IKE Negotiation Failure', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.017,0.75,1.633
+"IKE Negotiation Failure', 'NR DU Cell Blocked', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.017,0.75,1.633
+"RF Unit DC Input Power Failure', 'IKE Negotiation Failure', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.017,0.75,1.633
+"IKE Negotiation Failure', 'RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.017,0.75,1.633
+"IKE Negotiation Failure', 'BBU CPRI Interface Error', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.017,1.0,2.177
+Remote Maintenance Link Failure,RF Unit CPRI Interface Error,0.017,0.044,0.69
+"IKE Negotiation Failure', 'NR Cell Unavailable",Inter-System Communication Failure,0.017,0.5,1.089
+"BBU CPRI Interface Error', 'NR Cell Unavailable",Inter-System Communication Failure,0.017,0.75,1.633
+"NR DU Cell TRP Unavailable', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.017,0.75,1.633
+"RF Unit DC Input Power Failure', 'NR Cell Unavailable",Inter-System Communication Failure,0.017,0.5,1.089
+"NR DU Cell Blocked', 'BBU CPRI Interface Error', 'User Plane Fault",Inter-System Communication Failure,0.017,0.75,1.633
+"NR DU Cell TRP Unavailable', 'User Plane Fault",Inter-System Communication Failure,0.017,0.75,1.633
+"RF Unit DC Input Power Failure', 'User Plane Fault",Inter-System Communication Failure,0.017,0.429,0.933
+NR DU Cell TRP Unavailable,RF Unit CPRI Interface Error,0.017,0.273,4.264
+"NR DU Cell TRP Unavailable', 'RF Unit Maintenance Link Failure",Inter-System Communication Failure,0.017,0.6,1.306
+NR Cell Unavailable,RF Unit CPRI Interface Error,0.017,0.231,3.608
+"BBU Topology and Configuration Mismatch', 'Ethernet Link Fault",Inter-System Communication Failure,0.017,1.0,2.177
+"NR DU Cell TRP Unavailable', 'BBU CPRI Interface Error', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.017,1.0,2.177
+"Remote Maintenance Link Failure', 'BBU CPRI Interface Error', 'User Plane Fault",Inter-System Communication Failure,0.017,0.75,1.633
+"NR DU Cell Blocked', 'NR Cell Unavailable",Inter-System Communication Failure,0.017,0.6,1.306
+IKE Negotiation Failure,RF Unit CPRI Interface Error,0.017,0.03,0.469
+"BBU Topology and Configuration Mismatch', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,0.667,1.451
+"RF Unit DC Input Power Failure', 'NR DU Cell TRP Unavailable', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"RF Unit DC Input Power Failure', 'Remote Maintenance Link Failure', 'User Plane Fault', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,0.667,1.451
+"NR DU Cell TRP Unavailable', 'NR DU Cell Blocked', 'RF Unit Maintenance Link Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"NR DU Cell TRP Unavailable', 'Remote Maintenance Link Failure', 'NR DU Cell Blocked', 'User Plane Fault",Inter-System Communication Failure,0.012,1.0,2.177
+"RF Unit DC Input Power Failure', 'Remote Maintenance Link Failure', 'RF Unit Maintenance Link Failure', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,0.667,1.451
+"RF Unit DC Input Power Failure', 'NR DU Cell TRP Unavailable', 'RF Unit Maintenance Link Failure', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,0.5,1.089
+"User Plane Fault', 'Remote Maintenance Link Failure', 'NR DU Cell Blocked', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,1.0,2.177
+"NR DU Cell TRP Unavailable', 'Remote Maintenance Link Failure', 'RF Unit Maintenance Link Failure', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,0.667,1.451
+"RF Unit DC Input Power Failure', 'NR DU Cell TRP Unavailable', 'User Plane Fault', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,0.667,1.451
+"RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'RF Unit Maintenance Link Failure', 'User Plane Fault",Inter-System Communication Failure,0.012,0.667,1.451
+"RF Unit DC Input Power Failure', 'NR DU Cell TRP Unavailable', 'Remote Maintenance Link Failure', 'User Plane Fault",Inter-System Communication Failure,0.012,0.667,1.451
+"RF Unit DC Input Power Failure', 'NR DU Cell TRP Unavailable', 'RF Unit Maintenance Link Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,0.667,1.451
+"Transmission Optical Interface Error', 'gNodeB Out of Service', 'NR DU Cell Blocked', 'User Plane Fault",Inter-System Communication Failure,0.012,0.667,1.451
+"RF Unit DC Input Power Failure', 'Remote Maintenance Link Failure', 'RF Unit Maintenance Link Failure', 'User Plane Fault",Inter-System Communication Failure,0.012,0.5,1.089
+"Remote Maintenance Link Failure', 'NR DU Cell Blocked', 'RF Unit Maintenance Link Failure', 'User Plane Fault",Inter-System Communication Failure,0.012,0.667,1.451
+"RF Unit DC Input Power Failure', 'Remote Maintenance Link Failure', 'NR DU Cell Blocked', 'User Plane Fault",Inter-System Communication Failure,0.012,0.667,1.451
+"RF Unit DC Input Power Failure', 'gNodeB Out of Service', 'NR DU Cell Blocked', 'RF Unit Maintenance Link Failure",Inter-System Communication Failure,0.012,0.667,1.451
+"Remote Maintenance Link Failure', 'gNodeB Out of Service', 'NR DU Cell Blocked', 'User Plane Fault",Inter-System Communication Failure,0.012,0.667,1.451
+"Transmission Optical Interface Error', 'Remote Maintenance Link Failure', 'NR DU Cell Blocked', 'User Plane Fault",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'NR DU Cell TRP Unavailable', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,1.0,2.177
+"NR Cell Unavailable', 'BBU Topology and Configuration Mismatch', 'Remote Maintenance Link Failure', 'NR DU Cell TRP Unavailable', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,1.0,2.177
+"NR Cell Unavailable', 'BBU Topology and Configuration Mismatch', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,1.0,2.177
+"NR Cell Unavailable', 'BBU Topology and Configuration Mismatch', 'NR DU Cell Blocked', 'NR DU Cell TRP Unavailable', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,1.0,2.177
+"NR Cell Unavailable', 'BBU Topology and Configuration Mismatch', 'BBU CPRI Interface Error', 'NR DU Cell TRP Unavailable', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+NR DU Cell Blocked,RF Unit CPRI Interface Error,0.012,0.035,0.549
+"NR Cell Unavailable', 'BBU Topology and Configuration Mismatch', 'NR DU Cell Blocked', 'BBU CPRI Interface Error', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'NR DU Cell Blocked', 'BBU CPRI Interface Error', 'NR DU Cell TRP Unavailable', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+NR DU Cell TRP Capability Degraded,RF Unit CPRI Interface Error,0.012,1.0,15.636
+"NR Cell Unavailable', 'BBU Topology and Configuration Mismatch', 'BBU CPRI Interface Error', 'Remote Maintenance Link Failure', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+Inter-System Communication Failure,RF Unit CPRI Interface Error,0.012,0.025,0.396
+RF Unit CPRI Interface Error,Inter-System Communication Failure,0.012,0.182,0.396
+"BBU Topology and Configuration Mismatch', 'NR DU Cell Blocked', 'BBU CPRI Interface Error', 'Remote Maintenance Link Failure', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,0.667,1.451
+RF Unit DC Input Power Failure,RF Unit CPRI Interface Error,0.012,0.095,1.489
+"BBU Topology and Configuration Mismatch', 'BBU CPRI Interface Error', 'Remote Maintenance Link Failure', 'NR DU Cell TRP Unavailable', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"Remote Maintenance Link Failure', 'NR DU Cell Blocked', 'RF Unit Maintenance Link Failure', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,1.0,2.177
+"Transmission Optical Interface Error', 'gNodeB Out of Service', 'IKE Negotiation Failure', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"gNodeB Out of Service', 'IKE Negotiation Failure', 'Inter-BBU Port Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"RF Unit DC Input Power Failure', 'NR DU Cell TRP Unavailable', 'IKE Negotiation Failure', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,0.5,1.089
+"Remote Maintenance Link Failure', 'User Plane Fault', 'IKE Negotiation Failure', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,0.667,1.451
+"Remote Maintenance Link Failure', 'RF Unit DC Input Power Failure', 'IKE Negotiation Failure', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,0.667,1.451
+"Remote Maintenance Link Failure', 'NR DU Cell TRP Unavailable', 'IKE Negotiation Failure', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,0.667,1.451
+"Transmission Optical Interface Error', 'IKE Negotiation Failure', 'NR DU Cell Blocked', 'User Plane Fault",Inter-System Communication Failure,0.012,0.667,1.451
+"gNodeB Out of Service', 'NR DU Cell Blocked', 'IKE Negotiation Failure', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,0.667,1.451
+"BBU Topology and Configuration Mismatch', 'NR DU Cell TRP Unavailable', 'gNodeB Out of Service', 'NR DU Cell Blocked",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'NR DU Cell TRP Unavailable', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'gNodeB Out of Service', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,0.667,1.451
+"BBU Topology and Configuration Mismatch', 'NR DU Cell TRP Unavailable', 'Remote Maintenance Link Failure', 'User Plane Fault",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'RF Unit DC Input Power Failure', 'NR DU Cell TRP Unavailable', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'RF Unit DC Input Power Failure', 'NR DU Cell TRP Unavailable', 'RF Unit Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'Transmission Optical Interface Error', 'gNodeB Out of Service', 'NR DU Cell Blocked",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'RF Unit DC Input Power Failure', 'NR DU Cell TRP Unavailable', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'Remote Maintenance Link Failure', 'NR DU Cell Blocked', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'NR DU Cell TRP Unavailable', 'NR DU Cell Blocked', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'User Plane Fault', 'NR DU Cell TRP Unavailable', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'NR DU Cell TRP Unavailable', 'NR DU Cell Blocked', 'RF Unit Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'RF Unit DC Input Power Failure', 'NR DU Cell TRP Unavailable', 'NR DU Cell Blocked",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'RF Unit DC Input Power Failure', 'Remote Maintenance Link Failure', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,1.0,2.177
+"Transmission Optical Interface Error', 'Ethernet Link Fault', 'Inter-BBU Port Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"Transmission Optical Interface Error', 'IKE Negotiation Failure', 'Ethernet Link Fault', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"Transmission Optical Interface Error', 'IKE Negotiation Failure', 'Ethernet Link Fault', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"Transmission Optical Interface Error', 'IKE Negotiation Failure', 'NR DU Cell Blocked', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"Transmission Optical Interface Error', 'gNodeB Out of Service', 'Ethernet Link Fault', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"IKE Negotiation Failure', 'GPS Antenna Fault', 'Inter-BBU Port Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"IKE Negotiation Failure', 'Ethernet Link Fault', 'Inter-BBU Port Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'Remote Maintenance Link Failure', 'gNodeB Out of Service', 'User Plane Fault",Inter-System Communication Failure,0.012,0.667,1.451
+"RF Unit DC Input Power Failure', 'NR DU Cell TRP Unavailable', 'IKE Negotiation Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,0.667,1.451
+"NR DU Cell TRP Unavailable', 'NR DU Cell Blocked', 'Inter-BBU Port Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"NR DU Cell TRP Unavailable', 'Remote Maintenance Link Failure', 'Inter-BBU Port Failure', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,1.0,2.177
+"Remote Maintenance Link Failure', 'NR DU Cell Blocked', 'Inter-BBU Port Failure', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,1.0,2.177
+"NR DU Cell TRP Unavailable', 'NR DU Cell Blocked', 'Inter-BBU Port Failure', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,0.667,1.451
+"RF Unit DC Input Power Failure', 'NR DU Cell TRP Unavailable', 'NR DU Cell Blocked', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,0.667,1.451
+"Inter-BBU Port Failure', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,0.5,1.089
+"NR DU Cell TRP Unavailable', 'NR DU Cell Blocked', 'RF Unit Maintenance Link Failure', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,0.667,1.451
+"RF Unit DC Input Power Failure', 'Remote Maintenance Link Failure', 'NR DU Cell Blocked', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,1.0,2.177
+"RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'RF Unit Maintenance Link Failure', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,0.667,1.451
+"User Plane Fault', 'NR DU Cell TRP Unavailable', 'NR DU Cell Blocked', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,1.0,2.177
+"Transmission Optical Interface Error', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,1.0,2.177
+"gNodeB Out of Service', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,0.667,1.451
+"Transmission Optical Interface Error', 'gNodeB Out of Service', 'IKE Negotiation Failure', 'User Plane Fault",Inter-System Communication Failure,0.012,0.5,1.089
+"Remote Maintenance Link Failure', 'Transmission Optical Interface Error', 'IKE Negotiation Failure', 'User Plane Fault",Inter-System Communication Failure,0.012,1.0,2.177
+"Remote Maintenance Link Failure', 'RF Unit DC Input Power Failure', 'IKE Negotiation Failure', 'User Plane Fault",Inter-System Communication Failure,0.012,0.667,1.451
+"NR Cell Unavailable', 'BBU Topology and Configuration Mismatch', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'NR DU Cell TRP Unavailable', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,1.0,2.177
+"NR Cell Unavailable', 'Inter-BBU Port Failure', 'BBU Topology and Configuration Mismatch', 'NR DU Cell Blocked', 'NR DU Cell TRP Unavailable', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,1.0,2.177
+"Inter-BBU Port Failure', 'BBU Topology and Configuration Mismatch', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'NR DU Cell TRP Unavailable', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,1.0,2.177
+"NR Cell Unavailable', 'Inter-BBU Port Failure', 'BBU Topology and Configuration Mismatch', 'Remote Maintenance Link Failure', 'NR DU Cell TRP Unavailable', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,1.0,2.177
+"NR Cell Unavailable', 'Inter-BBU Port Failure', 'BBU Topology and Configuration Mismatch', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,1.0,2.177
+"NR Cell Unavailable', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'NR DU Cell TRP Unavailable', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"gNodeB Out of Service', 'Transmission Optical Interface Error', 'User Plane Fault', 'IKE Negotiation Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"RF Unit Maintenance Link Failure', 'NR Cell Unavailable', 'RF Unit DC Input Power Failure', 'Remote Maintenance Link Failure', 'NR DU Cell TRP Unavailable",Inter-System Communication Failure,0.012,0.667,1.451
+"RF Unit Maintenance Link Failure', 'NR Cell Unavailable', 'RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"NR Cell Unavailable', 'User Plane Fault', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'NR DU Cell TRP Unavailable",Inter-System Communication Failure,0.012,1.0,2.177
+"NR Cell Unavailable', 'RF Unit DC Input Power Failure', 'User Plane Fault', 'Remote Maintenance Link Failure', 'NR DU Cell TRP Unavailable",Inter-System Communication Failure,0.012,0.667,1.451
+"RF Unit Maintenance Link Failure', 'RF Unit DC Input Power Failure', 'User Plane Fault', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,0.667,1.451
+"gNodeB Out of Service', 'Transmission Optical Interface Error', 'User Plane Fault', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"RF Unit Maintenance Link Failure', 'RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'NR DU Cell TRP Unavailable",Inter-System Communication Failure,0.012,1.0,2.177
+"RF Unit Maintenance Link Failure', 'NR Cell Unavailable', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'NR DU Cell TRP Unavailable",Inter-System Communication Failure,0.012,1.0,2.177
+"NR Cell Unavailable', 'RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'NR DU Cell TRP Unavailable",Inter-System Communication Failure,0.012,1.0,2.177
+"RF Unit Maintenance Link Failure', 'NR Cell Unavailable', 'RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'NR DU Cell TRP Unavailable",Inter-System Communication Failure,0.012,0.667,1.451
+"NR Cell Unavailable', 'Inter-BBU Port Failure', 'BBU Topology and Configuration Mismatch', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'NR DU Cell TRP Unavailable', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,1.0,2.177
+"RF Unit Maintenance Link Failure', 'NR Cell Unavailable', 'RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'NR DU Cell TRP Unavailable",Inter-System Communication Failure,0.012,1.0,2.177
+"gNodeB Out of Service', 'Transmission Optical Interface Error', 'IKE Negotiation Failure', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"gNodeB Out of Service', 'Transmission Optical Interface Error', 'BBU Topology and Configuration Mismatch', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"RF Unit Maintenance Link Failure', 'NR Cell Unavailable', 'RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'NR DU Cell TRP Unavailable', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,1.0,2.177
+"NR Cell Unavailable', 'BBU Topology and Configuration Mismatch', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'NR DU Cell TRP Unavailable', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"NR Cell Unavailable', 'Inter-BBU Port Failure', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'NR DU Cell TRP Unavailable', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,1.0,2.177
+"RF Unit Maintenance Link Failure', 'NR Cell Unavailable', 'RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'NR DU Cell TRP Unavailable', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,0.667,1.451
+"gNodeB Out of Service', 'Transmission Optical Interface Error', 'User Plane Fault', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,1.0,2.177
+"RF Unit Maintenance Link Failure', 'RF Unit DC Input Power Failure', 'User Plane Fault', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,0.667,1.451
+"NR Cell Unavailable', 'RF Unit DC Input Power Failure', 'BBU Topology and Configuration Mismatch', 'IKE Negotiation Failure', 'Remote Maintenance Link Failure', 'NR DU Cell TRP Unavailable",Inter-System Communication Failure,0.012,1.0,2.177
+"Ethernet Link Fault', 'Transmission Optical Interface Error', 'BBU Topology and Configuration Mismatch', 'IKE Negotiation Failure', 'Remote Maintenance Link Failure', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"NR Cell Unavailable', 'User Plane Fault', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'NR DU Cell TRP Unavailable', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,1.0,2.177
+"RF Unit Maintenance Link Failure', 'NR Cell Unavailable', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'NR DU Cell TRP Unavailable', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,1.0,2.177
+"NR Cell Unavailable', 'RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'NR DU Cell TRP Unavailable', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,1.0,2.177
+"RF Unit Maintenance Link Failure', 'RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'NR DU Cell TRP Unavailable', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,1.0,2.177
+"RF Unit Maintenance Link Failure', 'NR Cell Unavailable', 'RF Unit DC Input Power Failure', 'Remote Maintenance Link Failure', 'NR DU Cell TRP Unavailable', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,1.0,2.177
+"RF Unit Maintenance Link Failure', 'NR Cell Unavailable', 'RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,1.0,2.177
+"RF Unit Maintenance Link Failure', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'NR DU Cell TRP Unavailable', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,1.0,2.177
+"RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'NR DU Cell TRP Unavailable', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,1.0,2.177
+"RF Unit Maintenance Link Failure', 'RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'NR DU Cell TRP Unavailable', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,0.667,1.451
+"User Plane Fault', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'NR DU Cell TRP Unavailable', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,1.0,2.177
+"RF Unit DC Input Power Failure', 'User Plane Fault', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,0.667,1.451
+"RF Unit Maintenance Link Failure', 'RF Unit DC Input Power Failure', 'User Plane Fault', 'NR DU Cell Blocked', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,0.667,1.451
+"RF Unit Maintenance Link Failure', 'NR Cell Unavailable', 'RF Unit DC Input Power Failure', 'Remote Maintenance Link Failure', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,1.0,2.177
+"RF Unit Maintenance Link Failure', 'NR Cell Unavailable', 'RF Unit DC Input Power Failure', 'NR DU Cell TRP Unavailable', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,0.667,1.451
+"NR Cell Unavailable', 'User Plane Fault', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,1.0,2.177
+"RF Unit Maintenance Link Failure', 'NR Cell Unavailable', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,1.0,2.177
+"NR Cell Unavailable', 'RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,1.0,2.177
+"NR Cell Unavailable', 'User Plane Fault', 'Remote Maintenance Link Failure', 'NR DU Cell TRP Unavailable', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,1.0,2.177
+"RF Unit Maintenance Link Failure', 'NR Cell Unavailable', 'Remote Maintenance Link Failure', 'NR DU Cell TRP Unavailable', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,1.0,2.177
+"NR Cell Unavailable', 'RF Unit DC Input Power Failure', 'Remote Maintenance Link Failure', 'NR DU Cell TRP Unavailable', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,1.0,2.177
+"RF Unit Maintenance Link Failure', 'User Plane Fault', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,0.667,1.451
+GPS Antenna Fault,Inter-System Communication Failure,0.012,0.4,0.871
+"gNodeB Out of Service', 'User Plane Fault', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,1.0,2.177
+"gNodeB Out of Service', 'Transmission Optical Interface Error', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,1.0,2.177
+"Transmission Optical Interface Error', 'User Plane Fault', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,1.0,2.177
+"gNodeB Out of Service', 'Transmission Optical Interface Error', 'User Plane Fault', 'Remote Maintenance Link Failure', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,1.0,2.177
+"RF Unit Maintenance Link Failure', 'RF Unit DC Input Power Failure', 'User Plane Fault', 'Remote Maintenance Link Failure', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,0.667,1.451
+"gNodeB Out of Service', 'Transmission Optical Interface Error', 'User Plane Fault', 'NR DU Cell Blocked', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,1.0,2.177
+"RF Unit Maintenance Link Failure', 'RF Unit DC Input Power Failure', 'Remote Maintenance Link Failure', 'NR DU Cell TRP Unavailable', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,1.0,2.177
+"NR Cell Unavailable', 'NR DU Cell Blocked', 'BBU CPRI Interface Error', 'NR DU Cell TRP Unavailable', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,0.667,1.451
+"NR DU Cell Blocked', 'BBU CPRI Interface Error', 'Remote Maintenance Link Failure', 'NR DU Cell TRP Unavailable', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"NR Cell Unavailable', 'BBU CPRI Interface Error', 'Remote Maintenance Link Failure', 'NR DU Cell TRP Unavailable', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"NR Cell Unavailable', 'NR DU Cell Blocked', 'BBU CPRI Interface Error', 'Remote Maintenance Link Failure', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"NR Cell Unavailable', 'RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'NR DU Cell TRP Unavailable', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,0.667,1.451
+"RF Unit Maintenance Link Failure', 'NR Cell Unavailable', 'RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,0.667,1.451
+"NR Cell Unavailable', 'User Plane Fault', 'NR DU Cell Blocked', 'NR DU Cell TRP Unavailable', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,1.0,2.177
+"RF Unit Maintenance Link Failure', 'NR Cell Unavailable', 'NR DU Cell Blocked', 'NR DU Cell TRP Unavailable', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,0.667,1.451
+"gNodeB Out of Service', 'IKE Negotiation Failure', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"Transmission Optical Interface Error', 'IKE Negotiation Failure', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"Ethernet Link Fault', 'Transmission Optical Interface Error', 'IKE Negotiation Failure', 'Remote Maintenance Link Failure', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"gNodeB Out of Service', 'Transmission Optical Interface Error', 'IKE Negotiation Failure', 'Remote Maintenance Link Failure', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"gNodeB Out of Service', 'Transmission Optical Interface Error', 'IKE Negotiation Failure', 'NR DU Cell Blocked', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"gNodeB Out of Service', 'Transmission Optical Interface Error', 'BBU Topology and Configuration Mismatch', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"NR Cell Unavailable', 'BBU Topology and Configuration Mismatch', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'NR DU Cell TRP Unavailable",Inter-System Communication Failure,0.012,1.0,2.177
+"NR Cell Unavailable', 'User Plane Fault', 'BBU Topology and Configuration Mismatch', 'Remote Maintenance Link Failure', 'NR DU Cell TRP Unavailable",Inter-System Communication Failure,0.012,1.0,2.177
+"RF Unit Maintenance Link Failure', 'RF Unit DC Input Power Failure', 'BBU Topology and Configuration Mismatch', 'NR DU Cell Blocked', 'NR DU Cell TRP Unavailable",Inter-System Communication Failure,0.012,1.0,2.177
+"NR Cell Unavailable', 'RF Unit DC Input Power Failure', 'BBU Topology and Configuration Mismatch', 'Remote Maintenance Link Failure', 'NR DU Cell TRP Unavailable",Inter-System Communication Failure,0.012,1.0,2.177
+"NR Cell Unavailable', 'RF Unit DC Input Power Failure', 'IKE Negotiation Failure', 'Remote Maintenance Link Failure', 'NR DU Cell TRP Unavailable",Inter-System Communication Failure,0.012,0.667,1.451
+"Ethernet Link Fault', 'Transmission Optical Interface Error', 'BBU Topology and Configuration Mismatch', 'Remote Maintenance Link Failure', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"Ethernet Link Fault', 'Transmission Optical Interface Error', 'BBU Topology and Configuration Mismatch', 'IKE Negotiation Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'IKE Negotiation Failure', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"GPS Antenna Fault', 'BBU Topology and Configuration Mismatch', 'IKE Negotiation Failure', 'Remote Maintenance Link Failure', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"gNodeB Out of Service', 'Ethernet Link Fault', 'Transmission Optical Interface Error', 'BBU Topology and Configuration Mismatch', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"Ethernet Link Fault', 'Transmission Optical Interface Error', 'BBU Topology and Configuration Mismatch', 'IKE Negotiation Failure', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"Ethernet Link Fault', 'BBU Topology and Configuration Mismatch', 'IKE Negotiation Failure', 'Remote Maintenance Link Failure', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"Transmission Optical Interface Error', 'BBU Topology and Configuration Mismatch', 'IKE Negotiation Failure', 'Remote Maintenance Link Failure', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"gNodeB Out of Service', 'Transmission Optical Interface Error', 'BBU Topology and Configuration Mismatch', 'Remote Maintenance Link Failure', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'NR DU Cell TRP Unavailable', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"NR Cell Unavailable', 'BBU Topology and Configuration Mismatch', 'Remote Maintenance Link Failure', 'NR DU Cell TRP Unavailable', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"NR Cell Unavailable', 'BBU Topology and Configuration Mismatch', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"gNodeB Out of Service', 'Transmission Optical Interface Error', 'BBU Topology and Configuration Mismatch', 'NR DU Cell Blocked', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"gNodeB Out of Service', 'BBU Topology and Configuration Mismatch', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"Transmission Optical Interface Error', 'BBU Topology and Configuration Mismatch', 'NR DU Cell Blocked', 'Remote Maintenance Link Failure', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"NR Cell Unavailable', 'BBU Topology and Configuration Mismatch', 'NR DU Cell Blocked', 'NR DU Cell TRP Unavailable', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"NR Cell Unavailable', 'RF Unit DC Input Power Failure', 'BBU Topology and Configuration Mismatch', 'IKE Negotiation Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"NR Cell Unavailable', 'BBU Topology and Configuration Mismatch', 'IKE Negotiation Failure', 'Remote Maintenance Link Failure', 'NR DU Cell TRP Unavailable",Inter-System Communication Failure,0.012,1.0,2.177
+"NR Cell Unavailable', 'RF Unit DC Input Power Failure', 'BBU Topology and Configuration Mismatch', 'IKE Negotiation Failure', 'NR DU Cell TRP Unavailable",Inter-System Communication Failure,0.012,1.0,2.177
+"NR Cell Unavailable', 'User Plane Fault', 'BBU Topology and Configuration Mismatch', 'IKE Negotiation Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"RF Unit DC Input Power Failure', 'BBU Topology and Configuration Mismatch', 'IKE Negotiation Failure', 'Remote Maintenance Link Failure', 'NR DU Cell TRP Unavailable",Inter-System Communication Failure,0.012,1.0,2.177
+"RF Unit Maintenance Link Failure', 'RF Unit DC Input Power Failure', 'BBU Topology and Configuration Mismatch', 'IKE Negotiation Failure', 'NR DU Cell Blocked",Inter-System Communication Failure,0.012,0.667,1.451
+"BBU Topology and Configuration Mismatch', 'BBU CPRI Interface Error', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,0.667,1.451
+"BBU Topology and Configuration Mismatch', 'BBU CPRI Interface Error', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'NR DU Cell Blocked', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,0.667,1.451
+"BBU Topology and Configuration Mismatch', 'NR DU Cell TRP Unavailable', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'Inter-BBU Port Failure', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,0.667,1.451
+"NR DU Cell Blocked', 'Inter-BBU Port Failure', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,0.667,1.451
+"User Plane Fault', 'Remote Maintenance Link Failure",RF Unit CPRI Interface Error,0.012,0.069,1.078
+"NR DU Cell TRP Unavailable', 'IKE Negotiation Failure', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,0.4,0.871
+"RF Unit DC Input Power Failure', 'NR DU Cell TRP Unavailable', 'IKE Negotiation Failure",Inter-System Communication Failure,0.012,0.5,1.089
+"IKE Negotiation Failure', 'NR DU Cell Blocked', 'User Plane Fault",Inter-System Communication Failure,0.012,0.222,0.484
+"RF Unit DC Input Power Failure', 'IKE Negotiation Failure', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,0.5,1.089
+"NR Cell Unavailable', 'IKE Negotiation Failure', 'User Plane Fault",Inter-System Communication Failure,0.012,0.667,1.451
+"NR DU Cell TRP Unavailable', 'IKE Negotiation Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,0.5,1.089
+"RF Unit DC Input Power Failure', 'IKE Negotiation Failure', 'User Plane Fault",Inter-System Communication Failure,0.012,0.5,1.089
+"NR DU Cell TRP Unavailable', 'Inter-BBU Port Failure', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,0.667,1.451
+"gNodeB Out of Service', 'NR DU Cell Blocked', 'RF Unit Maintenance Link Failure",Inter-System Communication Failure,0.012,0.667,1.451
+"NR DU Cell Blocked', 'RF Unit Maintenance Link Failure', 'User Plane Fault",Inter-System Communication Failure,0.012,0.667,1.451
+"RF Unit DC Input Power Failure', 'gNodeB Out of Service', 'NR DU Cell Blocked",Inter-System Communication Failure,0.012,0.5,1.089
+"RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'User Plane Fault",Inter-System Communication Failure,0.012,0.5,1.089
+"RF Unit DC Input Power Failure', 'NR DU Cell TRP Unavailable', 'User Plane Fault",Inter-System Communication Failure,0.012,0.667,1.451
+"NR DU Cell TRP Unavailable', 'gNodeB Out of Service",Inter-System Communication Failure,0.012,0.5,1.089
+"gNodeB Out of Service', 'NR DU Cell Blocked', 'User Plane Fault",Inter-System Communication Failure,0.012,0.333,0.726
+"RF Unit DC Input Power Failure', 'gNodeB Out of Service",Inter-System Communication Failure,0.012,0.286,0.622
+"RF Unit Maintenance Link Failure', 'User Plane Fault",Inter-System Communication Failure,0.012,0.4,0.871
+"gNodeB Out of Service', 'RF Unit Maintenance Link Failure",Inter-System Communication Failure,0.012,0.5,1.089
+"NR Cell Unavailable', 'RF Unit Maintenance Link Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,0.667,1.451
+"RF Unit DC Input Power Failure', 'NR Cell Unavailable', 'User Plane Fault",Inter-System Communication Failure,0.012,0.5,1.089
+"RF Unit DC Input Power Failure', 'RF Unit Maintenance Link Failure', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,0.4,0.871
+"NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded",RF Unit CPRI Interface Error,0.012,1.0,15.636
+"NR DU Cell TRP Unavailable', 'gNodeB Out of Service', 'NR DU Cell Blocked",Inter-System Communication Failure,0.012,0.667,1.451
+"NR DU Cell TRP Unavailable', 'NR DU Cell Blocked', 'User Plane Fault",Inter-System Communication Failure,0.012,1.0,2.177
+"NR DU Cell TRP Unavailable', 'NR Cell Unavailable",RF Unit CPRI Interface Error,0.012,0.222,3.475
+"NR DU Cell TRP Unavailable', 'RF Unit Maintenance Link Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,0.667,1.451
+"Remote Maintenance Link Failure', 'RF Unit Maintenance Link Failure', 'User Plane Fault",Inter-System Communication Failure,0.012,0.5,1.089
+"RF Unit DC Input Power Failure', 'gNodeB Out of Service', 'RF Unit Maintenance Link Failure",Inter-System Communication Failure,0.012,0.5,1.089
+"RF Unit DC Input Power Failure', 'RF Unit Maintenance Link Failure', 'User Plane Fault",Inter-System Communication Failure,0.012,0.4,0.871
+"RF Unit Maintenance Link Failure', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,0.4,0.871
+"NR DU Cell TRP Unavailable', 'Inter-BBU Port Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"NR DU Cell TRP Unavailable', 'NR DU Cell Blocked', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,0.667,1.451
+"NR Cell Unavailable', 'Inter-BBU Port Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"NR DU Cell TRP Unavailable', 'RF Unit Maintenance Link Failure', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,0.5,1.089
+"NR Cell Unavailable', 'NR DU Cell Blocked', 'User Plane Fault",Inter-System Communication Failure,0.012,1.0,2.177
+"RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,0.667,1.451
+"NR DU Cell Blocked', 'RF Unit Maintenance Link Failure', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,0.667,1.451
+"BBU Topology and Configuration Mismatch', 'GPS Antenna Fault', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'IKE Negotiation Failure', 'GPS Antenna Fault",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'GPS Antenna Fault', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,0.667,1.451
+"NR Cell Unavailable', 'BBU CPRI Interface Error', 'User Plane Fault",Inter-System Communication Failure,0.012,1.0,2.177
+"Transmission Optical Interface Error', 'NR DU Cell Blocked', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'Ethernet Link Fault', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'IKE Negotiation Failure', 'Ethernet Link Fault",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'gNodeB Out of Service', 'Ethernet Link Fault",Inter-System Communication Failure,0.012,1.0,2.177
+"gNodeB Out of Service', 'NR DU Cell Blocked', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,0.667,1.451
+"RF Unit DC Input Power Failure', 'NR DU Cell TRP Unavailable', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,0.667,1.451
+"BBU Topology and Configuration Mismatch', 'NR DU Cell TRP Unavailable', 'IKE Negotiation Failure",Inter-System Communication Failure,0.012,0.667,1.451
+"BBU Topology and Configuration Mismatch', 'Inter-BBU Port Failure', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'IKE Negotiation Failure', 'RF Unit Maintenance Link Failure",Inter-System Communication Failure,0.012,0.667,1.451
+"RF Unit DC Input Power Failure', 'BBU CPRI Interface Error', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,0.667,1.451
+"gNodeB Out of Service', 'BBU CPRI Interface Error', 'User Plane Fault",Inter-System Communication Failure,0.012,1.0,2.177
+"gNodeB Out of Service', 'BBU CPRI Interface Error', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"Transmission Optical Interface Error', 'gNodeB Out of Service', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,1.0,2.177
+"Transmission Optical Interface Error', 'BBU CPRI Interface Error', 'User Plane Fault",Inter-System Communication Failure,0.012,1.0,2.177
+"RF Unit DC Input Power Failure', 'BBU CPRI Interface Error', 'User Plane Fault",Inter-System Communication Failure,0.012,0.667,1.451
+"NR DU Cell TRP Unavailable', 'BBU CPRI Interface Error', 'User Plane Fault",Inter-System Communication Failure,0.012,1.0,2.177
+"NR DU Cell TRP Unavailable', 'RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,0.667,1.451
+"Transmission Optical Interface Error', 'BBU CPRI Interface Error', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error', 'User Plane Fault",Inter-System Communication Failure,0.012,0.667,1.451
+"BBU Topology and Configuration Mismatch', 'NR DU Cell TRP Unavailable', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"IKE Negotiation Failure', 'Ethernet Link Fault', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"IKE Negotiation Failure', 'Ethernet Link Fault', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"Transmission Optical Interface Error', 'IKE Negotiation Failure', 'Ethernet Link Fault",Inter-System Communication Failure,0.012,1.0,2.177
+"gNodeB Out of Service', 'IKE Negotiation Failure', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,0.667,1.451
+"GPS Antenna Fault', 'Inter-BBU Port Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"Transmission Optical Interface Error', 'Ethernet Link Fault', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"gNodeB Out of Service', 'Ethernet Link Fault', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"Ethernet Link Fault', 'Inter-BBU Port Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"IKE Negotiation Failure', 'GPS Antenna Fault', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"IKE Negotiation Failure', 'GPS Antenna Fault', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"Transmission Optical Interface Error', 'gNodeB Out of Service', 'Ethernet Link Fault",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'RF Unit DC Input Power Failure', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'NR DU Cell Blocked', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'gNodeB Out of Service', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'gNodeB Out of Service', 'User Plane Fault",Inter-System Communication Failure,0.012,0.667,1.451
+"Inter-BBU Port Failure', 'BBU CPRI Interface Error', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,0.667,1.451
+"Inter-BBU Port Failure', 'NR DU Cell Blocked', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,0.5,1.089
+"BBU Topology and Configuration Mismatch', 'NR DU Cell TRP Unavailable', 'RF Unit Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'RF Unit DC Input Power Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,0.667,1.451
+"NR DU Cell TRP Unavailable', 'Inter-BBU Port Failure', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,0.667,1.451
+"BBU Topology and Configuration Mismatch', 'NR DU Cell TRP Unavailable', 'gNodeB Out of Service",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'NR DU Cell TRP Unavailable', 'User Plane Fault",Inter-System Communication Failure,0.012,1.0,2.177
+"Inter-BBU Port Failure', 'BBU CPRI Interface Error', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,0.667,1.451
+"Transmission Optical Interface Error', 'gNodeB Out of Service', 'BBU CPRI Interface Error', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"Transmission Optical Interface Error', 'Remote Maintenance Link Failure', 'BBU CPRI Interface Error', 'User Plane Fault",Inter-System Communication Failure,0.012,1.0,2.177
+"Remote Maintenance Link Failure', 'RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error', 'User Plane Fault",Inter-System Communication Failure,0.012,0.667,1.451
+"RF Unit DC Input Power Failure', 'Remote Maintenance Link Failure', 'BBU CPRI Interface Error', 'User Plane Fault",Inter-System Communication Failure,0.012,0.667,1.451
+"Remote Maintenance Link Failure', 'gNodeB Out of Service', 'BBU CPRI Interface Error', 'User Plane Fault",Inter-System Communication Failure,0.012,1.0,2.177
+"Transmission Optical Interface Error', 'gNodeB Out of Service', 'BBU CPRI Interface Error', 'User Plane Fault",Inter-System Communication Failure,0.012,1.0,2.177
+"RF Unit DC Input Power Failure', 'RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,0.667,1.451
+"User Plane Fault', 'NR DU Cell TRP Unavailable', 'BBU CPRI Interface Error', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,1.0,2.177
+"NR DU Cell TRP Unavailable', 'RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,0.667,1.451
+"RF Unit DC Input Power Failure', 'Remote Maintenance Link Failure', 'BBU CPRI Interface Error', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,1.0,2.177
+"NR DU Cell TRP Unavailable', 'NR DU Cell Blocked', 'RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,0.667,1.451
+"RF Unit DC Input Power Failure', 'NR DU Cell TRP Unavailable', 'NR DU Cell Blocked', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,0.667,1.451
+"User Plane Fault', 'Remote Maintenance Link Failure', 'BBU CPRI Interface Error', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,1.0,2.177
+"Remote Maintenance Link Failure', 'RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,1.0,2.177
+"RF Unit DC Input Power Failure', 'NR DU Cell TRP Unavailable', 'BBU CPRI Interface Error', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,0.667,1.451
+"User Plane Fault', 'NR DU Cell Blocked', 'BBU CPRI Interface Error', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,1.0,2.177
+"gNodeB Out of Service', 'Ethernet Link Fault",Inter-System Communication Failure,0.012,1.0,2.177
+"NR DU Cell Blocked', 'RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,0.667,1.451
+"RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'BBU CPRI Interface Error', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,0.667,1.451
+"gNodeB Out of Service', 'NR DU Cell Blocked', 'BBU CPRI Interface Error', 'User Plane Fault",Inter-System Communication Failure,0.012,1.0,2.177
+"RF Unit DC Input Power Failure', 'NR DU Cell TRP Unavailable', 'RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,0.667,1.451
+"RF Unit DC Input Power Failure', 'NR DU Cell TRP Unavailable', 'BBU CPRI Interface Error', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"Transmission Optical Interface Error', 'gNodeB Out of Service', 'NR DU Cell Blocked', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,1.0,2.177
+"RF Unit DC Input Power Failure', 'RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error', 'User Plane Fault",Inter-System Communication Failure,0.012,0.667,1.451
+"NR DU Cell TRP Unavailable', 'Remote Maintenance Link Failure', 'BBU CPRI Interface Error', 'User Plane Fault",Inter-System Communication Failure,0.012,1.0,2.177
+"NR DU Cell TRP Unavailable', 'RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"Transmission Optical Interface Error', 'NR DU Cell Blocked', 'BBU CPRI Interface Error', 'User Plane Fault",Inter-System Communication Failure,0.012,1.0,2.177
+"Ethernet Link Fault', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'BBU CPRI Interface Error', 'User Plane Fault",Inter-System Communication Failure,0.012,0.667,1.451
+"NR DU Cell TRP Unavailable', 'NR DU Cell Blocked', 'BBU CPRI Interface Error', 'User Plane Fault",Inter-System Communication Failure,0.012,1.0,2.177
+"gNodeB Out of Service', 'NR DU Cell Blocked', 'BBU CPRI Interface Error', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"Transmission Optical Interface Error', 'NR DU Cell Blocked', 'BBU CPRI Interface Error', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"NR DU Cell Blocked', 'RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error', 'User Plane Fault",Inter-System Communication Failure,0.012,0.667,1.451
+"IKE Negotiation Failure', 'Ethernet Link Fault",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'NR DU Cell Blocked', 'Inter-BBU Port Failure', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'NR DU Cell TRP Unavailable', 'NR DU Cell Blocked', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'Transmission Optical Interface Error', 'NR DU Cell Blocked', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'NR DU Cell TRP Unavailable', 'Inter-BBU Port Failure', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'Remote Maintenance Link Failure', 'Inter-BBU Port Failure', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'GPS Antenna Fault",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'Transmission Optical Interface Error', 'IKE Negotiation Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'RF Unit DC Input Power Failure', 'IKE Negotiation Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'RF Unit DC Input Power Failure', 'IKE Negotiation Failure', 'RF Unit Maintenance Link Failure",Inter-System Communication Failure,0.012,0.667,1.451
+"BBU Topology and Configuration Mismatch', 'gNodeB Out of Service', 'NR DU Cell Blocked', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'gNodeB Out of Service', 'Inter-BBU Port Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'NR DU Cell TRP Unavailable', 'Inter-BBU Port Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'Transmission Optical Interface Error', 'gNodeB Out of Service', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'Ethernet Link Fault', 'Inter-BBU Port Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'Transmission Optical Interface Error', 'IKE Negotiation Failure', 'Ethernet Link Fault",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'IKE Negotiation Failure', 'Ethernet Link Fault', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'Transmission Optical Interface Error', 'Ethernet Link Fault', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'Transmission Optical Interface Error', 'gNodeB Out of Service', 'Ethernet Link Fault",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'gNodeB Out of Service', 'Ethernet Link Fault', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'IKE Negotiation Failure', 'Ethernet Link Fault', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'NR DU Cell TRP Unavailable', 'IKE Negotiation Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'RF Unit DC Input Power Failure', 'IKE Negotiation Failure', 'NR DU Cell Blocked",Inter-System Communication Failure,0.012,0.667,1.451
+"BBU Topology and Configuration Mismatch', 'User Plane Fault', 'IKE Negotiation Failure', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'RF Unit DC Input Power Failure', 'IKE Negotiation Failure', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'NR DU Cell TRP Unavailable', 'IKE Negotiation Failure', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,0.667,1.451
+"BBU Topology and Configuration Mismatch', 'IKE Negotiation Failure', 'NR DU Cell Blocked', 'RF Unit Maintenance Link Failure",Inter-System Communication Failure,0.012,0.667,1.451
+"BBU Topology and Configuration Mismatch', 'RF Unit DC Input Power Failure', 'NR DU Cell TRP Unavailable', 'IKE Negotiation Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'gNodeB Out of Service', 'NR DU Cell Blocked', 'IKE Negotiation Failure",Inter-System Communication Failure,0.012,0.667,1.451
+"BBU Topology and Configuration Mismatch', 'IKE Negotiation Failure', 'GPS Antenna Fault', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'GPS Antenna Fault', 'Inter-BBU Port Failure', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'IKE Negotiation Failure', 'GPS Antenna Fault', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'Transmission Optical Interface Error', 'IKE Negotiation Failure', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'IKE Negotiation Failure', 'NR DU Cell Blocked', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'NR DU Cell TRP Unavailable', 'BBU CPRI Interface Error', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'Remote Maintenance Link Failure', 'BBU CPRI Interface Error', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'NR DU Cell Blocked', 'BBU CPRI Interface Error', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'Inter-BBU Port Failure', 'BBU CPRI Interface Error', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,0.667,1.451
+"BBU Topology and Configuration Mismatch', 'NR DU Cell TRP Unavailable', 'NR DU Cell Blocked', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'NR DU Cell TRP Unavailable', 'BBU CPRI Interface Error', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'NR DU Cell Blocked', 'BBU CPRI Interface Error', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,0.667,1.451
+"BBU Topology and Configuration Mismatch', 'NR DU Cell TRP Unavailable', 'Inter-BBU Port Failure', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,1.0,2.177
+"BBU Topology and Configuration Mismatch', 'Inter-BBU Port Failure', 'NR DU Cell Blocked', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,0.667,1.451
+"BBU Topology and Configuration Mismatch', 'Inter-BBU Port Failure', 'BBU CPRI Interface Error', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,1.0,2.177
+"Inter-BBU Port Failure', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,0.667,1.451
+"NR DU Cell TRP Unavailable', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,0.667,1.451
+"IKE Negotiation Failure', 'Remote Maintenance Link Failure",RF Unit CPRI Interface Error,0.012,0.044,0.695
+"IKE Negotiation Failure', 'GPS Antenna Fault",Inter-System Communication Failure,0.012,1.0,2.177
+"NR DU Cell TRP Unavailable', 'Inter-BBU Port Failure', 'BBU CPRI Interface Error', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"GPS Antenna Fault', 'Inter-BBU Port Failure",Inter-System Communication Failure,0.012,1.0,2.177
+"Inter-BBU Port Failure', 'NR DU Cell Blocked', 'BBU CPRI Interface Error', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,0.667,1.451
+"Inter-BBU Port Failure', 'NR DU Cell Blocked', 'BBU CPRI Interface Error', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,0.667,1.451
+"Inter-BBU Port Failure', 'NR DU Cell TRP Unavailable', 'NR DU Cell Blocked', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,0.667,1.451
+"Remote Maintenance Link Failure', 'Inter-BBU Port Failure', 'BBU CPRI Interface Error', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,1.0,2.177
+"NR DU Cell TRP Unavailable', 'Inter-BBU Port Failure', 'BBU CPRI Interface Error', 'NR Cell Unavailable",Inter-System Communication Failure,0.012,0.667,1.451
+"NR DU Cell TRP Unavailable', 'IKE Negotiation Failure",Inter-System Communication Failure,0.012,0.333,0.726
+"GPS Antenna Fault', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.012,0.667,1.451
