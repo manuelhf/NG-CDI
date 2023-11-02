@@ -1,0 +1,276 @@
+antecedents,consequents,support,confidence,lift
+IKE Negotiation Failure,Ethernet Link Fault,0.127,0.318,1.929
+eNodeB S1 Control Plane Transmission Interruption,Ethernet Link Fault,0.113,0.328,1.986
+Remote Maintenance Link Failure,Inter-System Communication Failure,0.104,0.341,2.221
+IKE Negotiation Failure,Inter-System Communication Failure,0.097,0.243,1.58
+"eNodeB S1 Control Plane Transmission Interruption', 'IKE Negotiation Failure",Ethernet Link Fault,0.095,0.357,2.161
+Remote Maintenance Link Failure,Ethernet Link Fault,0.081,0.267,1.616
+eNodeB S1 Control Plane Transmission Interruption,Inter-System Communication Failure,0.08,0.233,1.52
+"Remote Maintenance Link Failure', 'IKE Negotiation Failure",Inter-System Communication Failure,0.071,0.341,2.22
+Cell Unavailable,Inter-System Communication Failure,0.07,0.217,1.413
+RF Unit ALD Current Out of Range,ALD Maintenance Link Failure,0.067,0.48,4.435
+"Remote Maintenance Link Failure', 'IKE Negotiation Failure",Ethernet Link Fault,0.066,0.318,1.925
+"eNodeB S1 Control Plane Transmission Interruption', 'IKE Negotiation Failure",Inter-System Communication Failure,0.065,0.244,1.587
+"Remote Maintenance Link Failure', 'eNodeB S1 Control Plane Transmission Interruption",Inter-System Communication Failure,0.065,0.345,2.244
+"Remote Maintenance Link Failure', 'eNodeB S1 Control Plane Transmission Interruption",Ethernet Link Fault,0.063,0.336,2.037
+Cell Blocked,ALD Maintenance Link Failure,0.061,0.192,1.778
+"Remote Maintenance Link Failure', 'Cell Unavailable",Inter-System Communication Failure,0.058,0.376,2.445
+"Remote Maintenance Link Failure', 'eNodeB S1 Control Plane Transmission Interruption', 'IKE Negotiation Failure",Ethernet Link Fault,0.056,0.352,2.133
+"Remote Maintenance Link Failure', 'eNodeB S1 Control Plane Transmission Interruption', 'IKE Negotiation Failure",Inter-System Communication Failure,0.056,0.352,2.291
+Cell Blocked,RF Unit VSWR Threshold Crossed,0.054,0.169,1.131
+RF Unit Maintenance Link Failure,RF Unit VSWR Threshold Crossed,0.05,0.218,1.459
+Cell Unavailable,RF Unit VSWR Threshold Crossed,0.05,0.154,1.03
+BBU CPRI Interface Error,RF Unit VSWR Threshold Crossed,0.046,0.251,1.679
+Cell Unavailable,Ethernet Link Fault,0.046,0.144,0.872
+Cell Blocked,Inter-System Communication Failure,0.046,0.144,0.934
+"Cell Unavailable', 'IKE Negotiation Failure",Inter-System Communication Failure,0.045,0.355,2.309
+"Cell Blocked', 'RF Unit ALD Current Out of Range",ALD Maintenance Link Failure,0.044,0.505,4.667
+RF Unit Maintenance Link Failure,RF Out of Service,0.042,0.183,2.78
+"eNodeB S1 Control Plane Transmission Interruption', 'Cell Unavailable",Inter-System Communication Failure,0.042,0.347,2.256
+RF Unit ALD Current Out of Range,RF Unit VSWR Threshold Crossed,0.042,0.304,2.033
+Cell Blocked,Ethernet Link Fault,0.042,0.133,0.808
+RF Unit Maintenance Link Failure,ALD Maintenance Link Failure,0.041,0.18,1.661
+"RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error",RF Unit VSWR Threshold Crossed,0.041,0.276,1.843
+"Remote Maintenance Link Failure', 'Cell Unavailable', 'IKE Negotiation Failure",Inter-System Communication Failure,0.038,0.388,2.528
+"Remote Maintenance Link Failure', 'eNodeB S1 Control Plane Transmission Interruption', 'Cell Unavailable",Inter-System Communication Failure,0.038,0.382,2.487
+Cell RX Channel Interference Noise Power Unbalanced,RF Unit VSWR Threshold Crossed,0.038,0.204,1.366
+Cell Blocked,RF Out of Service,0.036,0.113,1.713
+Cell Unavailable,ALD Maintenance Link Failure,0.035,0.109,1.004
+"Cell Unavailable', 'IKE Negotiation Failure",Ethernet Link Fault,0.035,0.277,1.681
+"eNodeB S1 Control Plane Transmission Interruption', 'Cell Unavailable', 'IKE Negotiation Failure",Inter-System Communication Failure,0.033,0.373,2.426
+"RF Unit Maintenance Link Failure', 'Cell Unavailable",RF Unit VSWR Threshold Crossed,0.033,0.253,1.692
+BBU CPRI Interface Error,ALD Maintenance Link Failure,0.033,0.176,1.63
+"Remote Maintenance Link Failure', 'Cell Unavailable",Ethernet Link Fault,0.033,0.212,1.282
+IKE Negotiation Failure,ALD Maintenance Link Failure,0.032,0.08,0.736
+"Remote Maintenance Link Failure', 'eNodeB S1 Control Plane Transmission Interruption', 'Cell Unavailable', 'IKE Negotiation Failure",Inter-System Communication Failure,0.032,0.394,2.564
+IKE Negotiation Failure,RF Unit VSWR Threshold Crossed,0.032,0.08,0.532
+eNodeB S1 Control Plane Transmission Interruption,RF Unit VSWR Threshold Crossed,0.031,0.09,0.599
+BBU CPRI Interface Error,RF Out of Service,0.031,0.167,2.542
+"Cell Blocked', 'RF Unit Maintenance Link Failure",ALD Maintenance Link Failure,0.03,0.234,2.166
+"Cell Blocked', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.03,0.306,1.99
+"eNodeB S1 Control Plane Transmission Interruption', 'Cell Unavailable",Ethernet Link Fault,0.03,0.247,1.495
+"Cell Blocked', 'Remote Maintenance Link Failure",Ethernet Link Fault,0.029,0.298,1.803
+"Cell Blocked', 'IKE Negotiation Failure",Ethernet Link Fault,0.029,0.267,1.616
+"RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error",RF Out of Service,0.029,0.195,2.955
+"Remote Maintenance Link Failure', 'Cell Unavailable', 'IKE Negotiation Failure",Ethernet Link Fault,0.028,0.289,1.753
+"Cell Unavailable', 'RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error",RF Unit VSWR Threshold Crossed,0.028,0.304,2.034
+"RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error",ALD Maintenance Link Failure,0.028,0.189,1.75
+"Cell Unavailable', 'BBU CPRI Interface Error",RF Unit VSWR Threshold Crossed,0.028,0.273,1.828
+"Cell Blocked', 'RF Unit Maintenance Link Failure",RF Unit VSWR Threshold Crossed,0.028,0.222,1.481
+Remote Maintenance Link Failure,ALD Maintenance Link Failure,0.028,0.091,0.838
+"Cell Blocked', 'eNodeB S1 Control Plane Transmission Interruption",Ethernet Link Fault,0.027,0.311,1.886
+"eNodeB S1 Control Plane Transmission Interruption', 'Cell Unavailable', 'IKE Negotiation Failure",Ethernet Link Fault,0.027,0.3,1.818
+Cell Unavailable,RF Out of Service,0.027,0.083,1.265
+RF Unit Maintenance Link Failure,Inter-System Communication Failure,0.027,0.116,0.756
+"Cell Blocked', 'IKE Negotiation Failure",Inter-System Communication Failure,0.026,0.237,1.543
+eNodeB S1 Control Plane Transmission Interruption,ALD Maintenance Link Failure,0.026,0.075,0.698
+"RF Unit ALD Current Out of Range', 'RF Unit Maintenance Link Failure",ALD Maintenance Link Failure,0.025,0.477,4.411
+"Cell Blocked', 'RF Unit ALD Current Out of Range",RF Unit VSWR Threshold Crossed,0.025,0.29,1.937
+"Cell Blocked', 'eNodeB S1 Control Plane Transmission Interruption', 'IKE Negotiation Failure",Ethernet Link Fault,0.024,0.353,2.139
+Cell RX Channel Interference Noise Power Unbalanced,ALD Maintenance Link Failure,0.024,0.13,1.206
+"Cell Blocked', 'BBU CPRI Interface Error",RF Unit VSWR Threshold Crossed,0.024,0.222,1.486
+"Remote Maintenance Link Failure', 'eNodeB S1 Control Plane Transmission Interruption', 'Cell Unavailable",Ethernet Link Fault,0.024,0.244,1.478
+"Cell Blocked', 'RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error",RF Unit VSWR Threshold Crossed,0.024,0.257,1.716
+"Cell Blocked', 'RF Unit Maintenance Link Failure",RF Out of Service,0.024,0.184,2.787
+Remote Maintenance Link Failure,RF Unit VSWR Threshold Crossed,0.024,0.077,0.517
+"Cell Blocked', 'BBU CPRI Interface Error",ALD Maintenance Link Failure,0.023,0.207,1.918
+"Cell Blocked', 'Remote Maintenance Link Failure', 'IKE Negotiation Failure",Ethernet Link Fault,0.023,0.341,2.069
+"RF Unit ALD Current Out of Range', 'BBU CPRI Interface Error",RF Unit VSWR Threshold Crossed,0.023,0.475,3.172
+"Remote Maintenance Link Failure', 'eNodeB S1 Control Plane Transmission Interruption', 'Cell Unavailable', 'IKE Negotiation Failure",Ethernet Link Fault,0.023,0.283,1.714
+"Cell Blocked', 'eNodeB S1 Control Plane Transmission Interruption",Inter-System Communication Failure,0.023,0.264,1.719
+"Cell Blocked', 'IKE Negotiation Failure",ALD Maintenance Link Failure,0.023,0.207,1.918
+"RF Unit Maintenance Link Failure', 'Cell Unavailable",RF Out of Service,0.023,0.173,2.625
+"Cell Blocked', 'eNodeB S1 Control Plane Transmission Interruption', 'Remote Maintenance Link Failure",Ethernet Link Fault,0.023,0.384,2.324
+"RF Unit Maintenance Link Failure', 'Cell Unavailable",ALD Maintenance Link Failure,0.022,0.167,1.541
+"Cell Blocked', 'Cell Unavailable",ALD Maintenance Link Failure,0.022,0.203,1.877
+"RF Unit ALD Current Out of Range', 'RF Unit Maintenance Link Failure",RF Unit VSWR Threshold Crossed,0.022,0.415,2.777
+"Cell Blocked', 'RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error",ALD Maintenance Link Failure,0.021,0.23,2.128
+"RF Unit ALD Current Out of Range', 'BBU CPRI Interface Error",ALD Maintenance Link Failure,0.021,0.441,4.075
+"Remote Maintenance Link Failure', 'IKE Negotiation Failure",ALD Maintenance Link Failure,0.021,0.102,0.943
+"eNodeB S1 Control Plane Transmission Interruption', 'IKE Negotiation Failure",RF Unit VSWR Threshold Crossed,0.021,0.079,0.53
+"RF Unit ALD Current Out of Range', 'Cell Unavailable",ALD Maintenance Link Failure,0.021,0.464,4.294
+"Cell Blocked', 'Remote Maintenance Link Failure', 'IKE Negotiation Failure",Inter-System Communication Failure,0.021,0.317,2.063
+"Cell Blocked', 'Cell Unavailable",RF Unit VSWR Threshold Crossed,0.02,0.188,1.257
+"Cell Blocked', 'RF Unit ALD Current Out of Range', 'RF Unit Maintenance Link Failure",ALD Maintenance Link Failure,0.02,0.532,4.919
+"RF Unit ALD Current Out of Range', 'RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error",RF Unit VSWR Threshold Crossed,0.02,0.5,3.342
+Monitoring Device Maintenance Link Failure,Inter-System Communication Failure,0.02,0.223,1.453
+"Cell Blocked', 'eNodeB S1 Control Plane Transmission Interruption', 'Remote Maintenance Link Failure', 'IKE Negotiation Failure",Ethernet Link Fault,0.02,0.397,2.404
+"Remote Maintenance Link Failure', 'eNodeB S1 Control Plane Transmission Interruption",ALD Maintenance Link Failure,0.02,0.108,0.997
+"eNodeB S1 Control Plane Transmission Interruption', 'IKE Negotiation Failure",ALD Maintenance Link Failure,0.02,0.076,0.705
+RF Unit Maintenance Link Failure,Ethernet Link Fault,0.02,0.088,0.533
+Ethernet Link Fault,Inter-System Communication Failure,0.02,0.123,0.801
+Inter-System Communication Failure,Ethernet Link Fault,0.02,0.132,0.801
+RF Unit VSWR Threshold Crossed,ALD Maintenance Link Failure,0.02,0.13,1.206
+ALD Maintenance Link Failure,RF Unit VSWR Threshold Crossed,0.02,0.18,1.206
+RF Unit RX Channel RTWP/RSSI Too Low,RF Unit VSWR Threshold Crossed,0.02,0.364,2.431
+"Cell Blocked', 'eNodeB S1 Control Plane Transmission Interruption', 'IKE Negotiation Failure",Inter-System Communication Failure,0.019,0.271,1.761
+Cell RX Channel Interference Noise Power Unbalanced,Inter-System Communication Failure,0.019,0.1,0.651
+"RF Unit ALD Current Out of Range', 'RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error",ALD Maintenance Link Failure,0.019,0.46,4.254
+"Cell Blocked', 'eNodeB S1 Control Plane Transmission Interruption', 'Remote Maintenance Link Failure",Inter-System Communication Failure,0.019,0.315,2.05
+"Remote Maintenance Link Failure', 'Ethernet Link Fault",Inter-System Communication Failure,0.018,0.22,1.432
+"RF Unit ALD Current Out of Range', 'Cell Unavailable",RF Unit VSWR Threshold Crossed,0.018,0.393,2.626
+"Cell Unavailable', 'RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error",RF Out of Service,0.018,0.191,2.905
+eNodeB S1 Control Plane Transmission Interruption,RF Out of Service,0.018,0.052,0.788
+RF Unit Maintenance Link Failure,RF Unit CPRI Interface Error,0.018,0.077,2.887
+"Remote Maintenance Link Failure', 'Inter-System Communication Failure",Ethernet Link Fault,0.018,0.172,1.041
+"Remote Maintenance Link Failure', 'eNodeB S1 Control Plane Transmission Interruption', 'IKE Negotiation Failure",ALD Maintenance Link Failure,0.018,0.112,1.038
+"Cell Unavailable', 'BBU CPRI Interface Error",RF Out of Service,0.018,0.172,2.61
+"RF Unit ALD Current Out of Range', 'IKE Negotiation Failure",ALD Maintenance Link Failure,0.018,0.468,4.329
+"Cell Blocked', 'BBU CPRI Interface Error",RF Out of Service,0.017,0.156,2.362
+"Cell Blocked', 'Cell Unavailable', 'RF Unit Maintenance Link Failure",RF Unit VSWR Threshold Crossed,0.017,0.253,1.691
+Monitoring Device Maintenance Link Failure,RF Unit VSWR Threshold Crossed,0.017,0.188,1.253
+Cell RX Channel Interference Noise Power Unbalanced,Ethernet Link Fault,0.017,0.091,0.553
+"Cell Blocked', 'Cell Unavailable",Inter-System Communication Failure,0.017,0.158,1.028
+"Cell RX Channel Interference Noise Power Unbalanced', 'RF Unit ALD Current Out of Range",ALD Maintenance Link Failure,0.017,0.553,5.111
+"Remote Maintenance Link Failure', 'RF Unit Maintenance Link Failure",Inter-System Communication Failure,0.016,0.299,1.943
+"Remote Maintenance Link Failure', 'Monitoring Device Maintenance Link Failure",Inter-System Communication Failure,0.016,0.444,2.892
+"Cell RX Channel Interference Noise Power Unbalanced', 'BBU CPRI Interface Error",RF Unit VSWR Threshold Crossed,0.016,0.444,2.971
+S1 Interface Fault,Inter-System Communication Failure,0.016,0.26,1.69
+IKE Negotiation Failure,RF Out of Service,0.016,0.041,0.62
+"Cell Blocked', 'RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error",RF Out of Service,0.016,0.177,2.688
+"Remote Maintenance Link Failure', 'IKE Negotiation Failure",RF Unit VSWR Threshold Crossed,0.016,0.078,0.524
+"Cell Blocked', 'eNodeB S1 Control Plane Transmission Interruption', 'Remote Maintenance Link Failure', 'IKE Negotiation Failure",Inter-System Communication Failure,0.016,0.317,2.066
+"Cell Unavailable', 'RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error",ALD Maintenance Link Failure,0.016,0.174,1.608
+"Cell Unavailable', 'BBU CPRI Interface Error",ALD Maintenance Link Failure,0.016,0.156,1.445
+"Cell Blocked', 'IKE Negotiation Failure",RF Unit VSWR Threshold Crossed,0.016,0.148,0.99
+"Cell Blocked', 'RF Unit ALD Current Out of Range', 'IKE Negotiation Failure",ALD Maintenance Link Failure,0.016,0.571,5.285
+"RF Unit ALD Current Out of Range', 'RF Unit VSWR Threshold Crossed",ALD Maintenance Link Failure,0.016,0.385,3.557
+"RF Unit ALD Current Out of Range', 'ALD Maintenance Link Failure",RF Unit VSWR Threshold Crossed,0.016,0.244,1.63
+"RF Unit Maintenance Link Failure', 'Cell Unavailable",Inter-System Communication Failure,0.015,0.117,0.763
+"Cell Blocked', 'Remote Maintenance Link Failure",ALD Maintenance Link Failure,0.015,0.157,1.452
+"Cell RX Channel Interference Noise Power Unbalanced', 'IKE Negotiation Failure",Ethernet Link Fault,0.015,0.311,1.887
+RF Unit ALD Current Out of Range,Inter-System Communication Failure,0.015,0.111,0.723
+"eNodeB S1 Control Plane Transmission Interruption', 'RF Unit ALD Current Out of Range",ALD Maintenance Link Failure,0.015,0.442,4.086
+BBU CPRI Interface Error,RF Unit CPRI Interface Error,0.015,0.084,3.12
+"Cell Blocked', 'eNodeB S1 Control Plane Transmission Interruption",ALD Maintenance Link Failure,0.015,0.179,1.658
+"Cell Blocked', 'RF Unit ALD Current Out of Range', 'Cell Unavailable",ALD Maintenance Link Failure,0.015,0.514,4.749
+"Inter-System Communication Failure', 'IKE Negotiation Failure",Ethernet Link Fault,0.015,0.151,0.917
+"IKE Negotiation Failure', 'Ethernet Link Fault",Inter-System Communication Failure,0.015,0.115,0.751
+BBU CPRI Interface Error,Inter-System Communication Failure,0.015,0.079,0.516
+"Cell Blocked', 'Cell Unavailable', 'RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error",RF Unit VSWR Threshold Crossed,0.015,0.286,1.91
+"Cell Blocked', 'Cell Unavailable', 'BBU CPRI Interface Error",RF Unit VSWR Threshold Crossed,0.015,0.261,1.744
+"RF Unit ALD Current Out of Range', 'RF Unit Maintenance Link Failure', 'Cell Unavailable",RF Unit VSWR Threshold Crossed,0.015,0.545,3.646
+"eNodeB S1 Control Plane Transmission Interruption', 'IKE Negotiation Failure",RF Out of Service,0.015,0.055,0.833
+"Cell Blocked', 'RF Unit ALD Current Out of Range', 'BBU CPRI Interface Error",ALD Maintenance Link Failure,0.015,0.45,4.162
+"Cell Blocked', 'Cell Unavailable', 'RF Unit Maintenance Link Failure",ALD Maintenance Link Failure,0.015,0.217,2.006
+Monitoring Device Maintenance Link Failure,Ethernet Link Fault,0.015,0.161,0.974
+"Cell RX Channel Interference Noise Power Unbalanced', 'RF Unit Maintenance Link Failure",RF Unit VSWR Threshold Crossed,0.015,0.391,2.616
+"Cell Blocked', 'Cell Unavailable",RF Out of Service,0.014,0.128,1.941
+"Remote Maintenance Link Failure', 'Cell Unavailable",ALD Maintenance Link Failure,0.014,0.09,0.832
+"Remote Maintenance Link Failure', 'eNodeB S1 Control Plane Transmission Interruption",RF Unit VSWR Threshold Crossed,0.014,0.073,0.49
+"Cell Blocked', 'RF Unit ALD Current Out of Range', 'RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error",ALD Maintenance Link Failure,0.014,0.486,4.492
+Cell Blocked,RF Unit CPRI Interface Error,0.014,0.044,1.625
+"Cell Blocked', 'RF Unit ALD Current Out of Range', 'RF Unit Maintenance Link Failure",RF Unit VSWR Threshold Crossed,0.014,0.362,2.418
+"Remote Maintenance Link Failure', 'Cell Unavailable', 'Cell Blocked",Inter-System Communication Failure,0.014,0.321,2.087
+"Cell RX Channel Interference Noise Power Unbalanced', 'RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error",RF Unit VSWR Threshold Crossed,0.014,0.486,3.247
+Inter-System Communication Failure,ALD Maintenance Link Failure,0.014,0.09,0.832
+ALD Maintenance Link Failure,Inter-System Communication Failure,0.014,0.128,0.832
+Monitoring Device Maintenance Link Failure,ALD Maintenance Link Failure,0.014,0.152,1.404
+"Remote Maintenance Link Failure', 'IKE Negotiation Failure', 'Ethernet Link Fault",Inter-System Communication Failure,0.014,0.21,1.366
+"Remote Maintenance Link Failure', 'Inter-System Communication Failure', 'IKE Negotiation Failure",Ethernet Link Fault,0.014,0.195,1.184
+"Remote Maintenance Link Failure', 'RF Unit ALD Current Out of Range",ALD Maintenance Link Failure,0.014,0.459,4.249
+"eNodeB S1 Control Plane Transmission Interruption', 'Ethernet Link Fault",Inter-System Communication Failure,0.014,0.122,0.796
+"Inter-System Communication Failure', 'eNodeB S1 Control Plane Transmission Interruption",Ethernet Link Fault,0.014,0.172,1.04
+"Cell RX Channel Interference Noise Power Unbalanced', 'RF Unit ALD Current Out of Range",RF Unit VSWR Threshold Crossed,0.014,0.447,2.991
+"Cell RX Channel Interference Noise Power Unbalanced', 'eNodeB S1 Control Plane Transmission Interruption",Inter-System Communication Failure,0.014,0.288,1.875
+Cell Unavailable,RF Unit CPRI Interface Error,0.014,0.043,1.6
+"RF Unit ALD Current Out of Range', 'RF Unit Maintenance Link Failure', 'Cell Unavailable",ALD Maintenance Link Failure,0.013,0.485,4.484
+"Cell Blocked', 'eNodeB S1 Control Plane Transmission Interruption', 'IKE Negotiation Failure",ALD Maintenance Link Failure,0.013,0.188,1.741
+"Cell Blocked', 'RF Unit Maintenance Link Failure",Inter-System Communication Failure,0.013,0.101,0.659
+"RF Unit ALD Current Out of Range', 'Cell Unavailable', 'BBU CPRI Interface Error",RF Unit VSWR Threshold Crossed,0.013,0.5,3.342
+"Cell Blocked', 'RF Unit ALD Current Out of Range', 'BBU CPRI Interface Error",RF Unit VSWR Threshold Crossed,0.013,0.4,2.674
+"Remote Maintenance Link Failure', 'eNodeB S1 Control Plane Transmission Interruption', 'Inter-System Communication Failure",Ethernet Link Fault,0.013,0.2,1.212
+"Remote Maintenance Link Failure', 'eNodeB S1 Control Plane Transmission Interruption', 'Ethernet Link Fault",Inter-System Communication Failure,0.013,0.205,1.335
+"Cell Blocked', 'Cell Unavailable",Ethernet Link Fault,0.013,0.12,0.729
+RF Unit ALD Current Out of Range,Ethernet Link Fault,0.013,0.094,0.567
+"Remote Maintenance Link Failure', 'Cell RX Channel Interference Noise Power Unbalanced",Inter-System Communication Failure,0.013,0.356,2.314
+"Cell Unavailable', 'RF Unit ALD Current Out of Range', 'RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error",RF Unit VSWR Threshold Crossed,0.013,0.552,3.688
+Remote Maintenance Link Failure,RF Out of Service,0.013,0.043,0.648
+"Cell RX Channel Interference Noise Power Unbalanced', 'eNodeB S1 Control Plane Transmission Interruption",Ethernet Link Fault,0.013,0.271,1.643
+"Cell RX Channel Interference Noise Power Unbalanced', 'eNodeB S1 Control Plane Transmission Interruption', 'IKE Negotiation Failure",Ethernet Link Fault,0.013,0.348,2.108
+"Cell Blocked', 'RF Unit Maintenance Link Failure', 'Cell Unavailable",RF Out of Service,0.012,0.181,2.744
+"eNodeB S1 Control Plane Transmission Interruption', 'Cell Unavailable",RF Unit VSWR Threshold Crossed,0.012,0.1,0.668
+"Remote Maintenance Link Failure', 'eNodeB S1 Control Plane Transmission Interruption', 'Inter-System Communication Failure', 'IKE Negotiation Failure",Ethernet Link Fault,0.012,0.217,1.317
+"Remote Maintenance Link Failure', 'eNodeB S1 Control Plane Transmission Interruption', 'IKE Negotiation Failure', 'Ethernet Link Fault",Inter-System Communication Failure,0.012,0.217,1.415
+"Remote Maintenance Link Failure', 'Cell Unavailable",RF Unit VSWR Threshold Crossed,0.012,0.079,0.531
+"RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error",Inter-System Communication Failure,0.012,0.081,0.528
+"eNodeB S1 Control Plane Transmission Interruption', 'IKE Negotiation Failure', 'Ethernet Link Fault",Inter-System Communication Failure,0.012,0.128,0.834
+"Inter-System Communication Failure', 'eNodeB S1 Control Plane Transmission Interruption', 'IKE Negotiation Failure",Ethernet Link Fault,0.012,0.188,1.136
+"RF Unit Maintenance Link Failure', 'Cell Unavailable",RF Unit CPRI Interface Error,0.012,0.093,3.451
+"Cell Blocked', 'RF Unit ALD Current Out of Range', 'RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error",RF Unit VSWR Threshold Crossed,0.012,0.429,2.865
+"eNodeB S1 Control Plane Transmission Interruption', 'RF Unit ALD Current Out of Range",RF Unit VSWR Threshold Crossed,0.012,0.349,2.332
+Cell RX Channel Interference Noise Power Unbalanced,RF Out of Service,0.012,0.065,0.99
+"Remote Maintenance Link Failure', 'eNodeB S1 Control Plane Transmission Interruption",RF Out of Service,0.012,0.065,0.982
+S1 Interface Fault,Ethernet Link Fault,0.012,0.195,1.18
+"Cell Blocked', 'eNodeB S1 Control Plane Transmission Interruption', 'Remote Maintenance Link Failure",ALD Maintenance Link Failure,0.012,0.205,1.9
+"IKE Negotiation Failure', 'Monitoring Device Maintenance Link Failure",Inter-System Communication Failure,0.012,0.349,2.27
+"Cell Blocked', 'Remote Maintenance Link Failure', 'IKE Negotiation Failure",ALD Maintenance Link Failure,0.012,0.183,1.692
+"eNodeB S1 Control Plane Transmission Interruption', 'Monitoring Device Maintenance Link Failure",Inter-System Communication Failure,0.012,0.375,2.44
+"Cell Blocked', 'eNodeB S1 Control Plane Transmission Interruption",RF Unit VSWR Threshold Crossed,0.012,0.142,0.946
+"eNodeB S1 Control Plane Transmission Interruption', 'RF Unit Maintenance Link Failure",Inter-System Communication Failure,0.012,0.263,1.713
+"Cell Blocked', 'Cell RX Channel Interference Noise Power Unbalanced",ALD Maintenance Link Failure,0.012,0.273,2.522
+"RF Unit Maintenance Link Failure', 'IKE Negotiation Failure",Ethernet Link Fault,0.012,0.246,1.49
+"Cell Unavailable', 'IKE Negotiation Failure",ALD Maintenance Link Failure,0.012,0.097,0.895
+"eNodeB S1 Control Plane Transmission Interruption', 'RF Unit Maintenance Link Failure",Ethernet Link Fault,0.012,0.263,1.595
+"RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error",Ethernet Link Fault,0.011,0.076,0.459
+Remote Maintenance Link Failure,RF Unit CPRI Interface Error,0.011,0.037,1.392
+"eNodeB S1 Control Plane Transmission Interruption', 'Cell Unavailable",ALD Maintenance Link Failure,0.011,0.093,0.863
+"RF Unit VSWR Threshold Crossed', 'Cell Unavailable",ALD Maintenance Link Failure,0.011,0.23,2.123
+"ALD Maintenance Link Failure', 'Cell Unavailable",RF Unit VSWR Threshold Crossed,0.011,0.326,2.176
+"RF Unit Maintenance Link Failure', 'IKE Negotiation Failure",ALD Maintenance Link Failure,0.011,0.23,2.123
+"Remote Maintenance Link Failure', 'eNodeB S1 Control Plane Transmission Interruption', 'Monitoring Device Maintenance Link Failure",Inter-System Communication Failure,0.011,0.56,3.644
+"Remote Maintenance Link Failure', 'eNodeB S1 Control Plane Transmission Interruption', 'IKE Negotiation Failure",RF Unit VSWR Threshold Crossed,0.011,0.071,0.477
+"RF Unit RX Channel RTWP/RSSI Too Low', 'BBU CPRI Interface Error",RF Unit VSWR Threshold Crossed,0.011,0.636,4.254
+"RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error",RF Unit CPRI Interface Error,0.011,0.076,2.821
+BBU CPRI Interface Error,Ethernet Link Fault,0.011,0.062,0.374
+"Remote Maintenance Link Failure', 'IKE Negotiation Failure', 'Monitoring Device Maintenance Link Failure",Inter-System Communication Failure,0.011,0.483,3.142
+"Cell Blocked', 'Cell Unavailable', 'RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error",ALD Maintenance Link Failure,0.011,0.222,2.055
+"Cell RX Channel Interference Noise Power Unbalanced', 'Cell Unavailable",RF Unit VSWR Threshold Crossed,0.011,0.215,1.44
+"Remote Maintenance Link Failure', 'IKE Negotiation Failure",RF Out of Service,0.011,0.055,0.834
+"Remote Maintenance Link Failure', 'RF Unit Maintenance Link Failure",Ethernet Link Fault,0.011,0.209,1.266
+"RF Unit ALD Current Out of Range', 'IKE Negotiation Failure",RF Unit VSWR Threshold Crossed,0.011,0.298,1.991
+"Cell Blocked', 'RF Unit Maintenance Link Failure",Ethernet Link Fault,0.011,0.089,0.537
+"eNodeB S1 Control Plane Transmission Interruption', 'RF Unit Maintenance Link Failure",RF Out of Service,0.011,0.246,3.73
+"Cell Blocked', 'eNodeB S1 Control Plane Transmission Interruption",RF Out of Service,0.011,0.132,2.006
+"Cell Blocked', 'Cell Unavailable', 'BBU CPRI Interface Error",ALD Maintenance Link Failure,0.011,0.203,1.876
+"Cell Blocked', 'IKE Negotiation Failure",RF Out of Service,0.011,0.104,1.575
+"Remote Maintenance Link Failure', 'S1 Interface Fault",Inter-System Communication Failure,0.011,0.35,2.278
+"Cell Blocked', 'RF Unit Maintenance Link Failure",RF Unit CPRI Interface Error,0.011,0.089,3.303
+"IKE Negotiation Failure', 'Monitoring Device Maintenance Link Failure",Ethernet Link Fault,0.011,0.326,1.973
+"eNodeB S1 Control Plane Transmission Interruption', 'RF Unit ALD Current Out of Range', 'IKE Negotiation Failure",ALD Maintenance Link Failure,0.011,0.412,3.808
+"Cell Unavailable', 'IKE Negotiation Failure",RF Unit VSWR Threshold Crossed,0.011,0.09,0.604
+"RF Unit ALD Current Out of Range', 'Cell Unavailable', 'BBU CPRI Interface Error",ALD Maintenance Link Failure,0.011,0.406,3.757
+"Cell Blocked', 'eNodeB S1 Control Plane Transmission Interruption', 'Remote Maintenance Link Failure', 'IKE Negotiation Failure",ALD Maintenance Link Failure,0.011,0.206,1.908
+"Remote Maintenance Link Failure', 'eNodeB S1 Control Plane Transmission Interruption', 'Cell Unavailable",ALD Maintenance Link Failure,0.011,0.106,0.977
+"Remote Maintenance Link Failure', 'RF Unit ALD Current Out of Range', 'Cell Blocked",ALD Maintenance Link Failure,0.011,0.481,4.453
+"Cell RX Channel Interference Noise Power Unbalanced', 'BBU CPRI Interface Error",ALD Maintenance Link Failure,0.011,0.289,2.672
+"Cell Blocked', 'eNodeB S1 Control Plane Transmission Interruption', 'RF Unit ALD Current Out of Range",ALD Maintenance Link Failure,0.011,0.448,4.146
+"Cell Blocked', 'Monitoring Device Maintenance Link Failure",ALD Maintenance Link Failure,0.011,0.271,2.505
+"Cell Blocked', 'ALD Maintenance Link Failure",RF Unit VSWR Threshold Crossed,0.011,0.173,1.159
+"Cell Blocked', 'RF Unit VSWR Threshold Crossed",ALD Maintenance Link Failure,0.011,0.197,1.822
+"Cell RX Channel Interference Noise Power Unbalanced', 'Cell Unavailable",ALD Maintenance Link Failure,0.011,0.2,1.85
+"Remote Maintenance Link Failure', 'RF Unit ALD Current Out of Range', 'IKE Negotiation Failure",ALD Maintenance Link Failure,0.011,0.5,4.624
+"Inter-System Communication Failure', 'Cell Unavailable",Ethernet Link Fault,0.011,0.151,0.916
+IKE Negotiation Failure,RF Unit CPRI Interface Error,0.011,0.027,0.989
+"eNodeB S1 Control Plane Transmission Interruption', 'Cell Unavailable",RF Out of Service,0.011,0.087,1.316
+"Cell Unavailable', 'Ethernet Link Fault",Inter-System Communication Failure,0.011,0.228,1.484
+"RF Unit Maintenance Link Failure', 'Cell Unavailable",Ethernet Link Fault,0.011,0.08,0.486
+"Cell Blocked', 'Remote Maintenance Link Failure",RF Unit VSWR Threshold Crossed,0.011,0.107,0.718
+eNodeB S1 Control Plane Transmission Interruption,RF Unit CPRI Interface Error,0.011,0.031,1.143
+"Remote Maintenance Link Failure', 'Cell RX Channel Interference Noise Power Unbalanced",Ethernet Link Fault,0.011,0.289,1.75
+Inter-BBU Port Failure,Inter-System Communication Failure,0.011,0.929,6.043
+Transmission Optical Interface Error,Inter-System Communication Failure,0.011,0.325,2.115
+"Cell RX Channel Interference Noise Power Unbalanced', 'IKE Negotiation Failure",Inter-System Communication Failure,0.011,0.213,1.387
+"Cell Unavailable', 'RF Unit ALD Current Out of Range', 'RF Unit Maintenance Link Failure', 'BBU CPRI Interface Error",ALD Maintenance Link Failure,0.011,0.448,4.146
+"Remote Maintenance Link Failure', 'Cell RX Channel Interference Noise Power Unbalanced', 'IKE Negotiation Failure",Ethernet Link Fault,0.011,0.361,2.188
+"Remote Maintenance Link Failure', 'eNodeB S1 Control Plane Transmission Interruption', 'Cell RX Channel Interference Noise Power Unbalanced",Inter-System Communication Failure,0.011,0.371,2.417
+"Cell Blocked', 'eNodeB S1 Control Plane Transmission Interruption', 'Cell Unavailable",Inter-System Communication Failure,0.011,0.31,2.014
+"Cell Blocked', 'RF Unit ALD Current Out of Range', 'Cell Unavailable",RF Unit VSWR Threshold Crossed,0.011,0.351,2.349
+"Cell Blocked', 'eNodeB S1 Control Plane Transmission Interruption', 'IKE Negotiation Failure",RF Unit VSWR Threshold Crossed,0.011,0.153,1.022
+"Cell RX Channel Interference Noise Power Unbalanced', 'RF Unit ALD Current Out of Range', 'BBU CPRI Interface Error",RF Unit VSWR Threshold Crossed,0.011,0.65,4.345
+"eNodeB S1 Control Plane Transmission Interruption', 'IKE Negotiation Failure', 'Monitoring Device Maintenance Link Failure",Inter-System Communication Failure,0.011,0.448,2.917
+"eNodeB S1 Control Plane Transmission Interruption', 'RF Unit Maintenance Link Failure', 'IKE Negotiation Failure",Ethernet Link Fault,0.011,0.31,1.875
+"Remote Maintenance Link Failure', 'eNodeB S1 Control Plane Transmission Interruption', 'IKE Negotiation Failure",RF Out of Service,0.011,0.066,1.007
+"Cell RX Channel Interference Noise Power Unbalanced', 'RF Unit Maintenance Link Failure",ALD Maintenance Link Failure,0.011,0.283,2.614
+"ALD Maintenance Link Failure', 'RF Unit Maintenance Link Failure",RF Unit VSWR Threshold Crossed,0.011,0.255,1.704
+"RF Unit VSWR Threshold Crossed', 'RF Unit Maintenance Link Failure",ALD Maintenance Link Failure,0.011,0.21,1.939

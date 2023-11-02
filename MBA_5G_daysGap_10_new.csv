@@ -1,0 +1,500 @@
+antecedents,consequents,support,confidence,lift
+gNodeB X2 Interface Fault,RF Unit CPRI Interface Error,1.0,1.0,1.0
+"gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.8,1.0,1.0
+User Plane Path Fault,RF Unit CPRI Interface Error,0.8,1.0,1.0
+"NR Cell Unavailable', 'gNodeB X2 Interface Fault",RF Unit CPRI Interface Error,0.6,1.0,1.0
+"NR DU Cell Blocked', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.6,1.0,1.0
+User Plane Fault,RF Unit CPRI Interface Error,0.6,1.0,1.0
+NR DU Cell Blocked,RF Unit CPRI Interface Error,0.6,1.0,1.0
+NR Cell Unavailable,RF Unit CPRI Interface Error,0.6,1.0,1.0
+"User Plane Fault', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.6,1.0,1.0
+"User Plane Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.6,1.0,1.0
+"User Plane Fault', 'gNodeB X2 Interface Fault",RF Unit CPRI Interface Error,0.6,1.0,1.0
+"NR DU Cell Blocked', 'gNodeB X2 Interface Fault",RF Unit CPRI Interface Error,0.6,1.0,1.0
+"NR DU Cell Blocked', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.6,1.0,1.0
+"RF Unit Maintenance Link Failure', 'NR Cell Unavailable', 'gNodeB X2 Interface Fault",RF Unit CPRI Interface Error,0.4,1.0,1.0
+"NR DU Cell Blocked', 'Inter-System Communication Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.4,1.0,1.0
+"NR DU Cell Blocked', 'gNodeB X2 Interface Fault', 'Inter-System Communication Failure",RF Unit CPRI Interface Error,0.4,1.0,1.0
+"Inter-System Communication Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.4,1.0,1.0
+"gNodeB X2 Interface Fault', 'Inter-System Communication Failure",RF Unit CPRI Interface Error,0.4,1.0,1.0
+"NR DU Cell Blocked', 'User Plane Fault', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.4,1.0,1.0
+"gNodeB X2 Interface Fault', 'Inter-System Communication Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.4,1.0,1.0
+"IKE Negotiation Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.4,1.0,1.0
+"IKE Negotiation Failure', 'gNodeB X2 Interface Fault",RF Unit CPRI Interface Error,0.4,1.0,1.0
+"NR Cell Unavailable', 'gNodeB X2 Interface Fault', 'User Plane Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.4,1.0,1.0
+"NR DU Cell Blocked', 'Inter-System Communication Failure",RF Unit CPRI Interface Error,0.4,1.0,1.0
+"NR DU Cell Blocked', 'User Plane Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.4,1.0,1.0
+"NR DU Cell Blocked', 'User Plane Fault",RF Unit CPRI Interface Error,0.4,1.0,1.0
+"NR DU Cell Blocked', 'User Plane Fault', 'gNodeB X2 Interface Fault",RF Unit CPRI Interface Error,0.4,1.0,1.0
+"RF Unit Maintenance Link Failure', 'gNodeB X2 Interface Fault",RF Unit CPRI Interface Error,0.4,1.0,1.0
+"User Plane Fault', 'NR Cell Unavailable', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.4,1.0,1.0
+"User Plane Fault', 'NR Cell Unavailable', 'gNodeB X2 Interface Fault",RF Unit CPRI Interface Error,0.4,1.0,1.0
+"NR Cell Unavailable', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.4,1.0,1.0
+"NR DU Cell Blocked', 'gNodeB X2 Interface Fault', 'Inter-System Communication Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.4,1.0,1.0
+"NR Cell Unavailable', 'RF Unit Maintenance Link Failure",RF Unit CPRI Interface Error,0.4,1.0,1.0
+"User Plane Fault', 'NR Cell Unavailable",RF Unit CPRI Interface Error,0.4,1.0,1.0
+"NR Cell Unavailable', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.4,1.0,1.0
+"IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.4,1.0,1.0
+Inter-System Communication Failure,RF Unit CPRI Interface Error,0.4,1.0,1.0
+RF Unit Maintenance Link Failure,RF Unit CPRI Interface Error,0.4,1.0,1.0
+IKE Negotiation Failure,RF Unit CPRI Interface Error,0.4,1.0,1.0
+"NR Cell Unavailable', 'RF Unit Maintenance Link Failure', 'NR DU Cell TRP Capability Degraded', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'RF Unit Maintenance Link Failure', 'NR DU Cell TRP Capability Degraded', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'BBU Board Maintenance Link Failure', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit DC Input Power Failure', 'NR Cell Unavailable', 'User Plane Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit DC Input Power Failure', 'NR Cell Unavailable', 'gNodeB X2 Interface Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"gNodeB X2 Interface Fault', 'NR Cell Unavailable', 'RF Unit Maintenance Link Failure', 'NR DU Cell TRP Capability Degraded",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'User Plane Fault', 'NR DU Cell TRP Capability Degraded', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'gNodeB X2 Interface Fault', 'NR DU Cell TRP Capability Degraded', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'gNodeB X2 Interface Fault', 'NR DU Cell TRP Capability Degraded', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'gNodeB X2 Interface Fault', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'User Plane Path Fault', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'NR Cell Unavailable', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'BBU Board Maintenance Link Failure', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'User Plane Path Fault', 'BBU Board Maintenance Link Failure', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"gNodeB Out of Service', 'gNodeB X2 Interface Fault', 'Inter-System Communication Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'NR Cell Unavailable', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'gNodeB X2 Interface Fault', 'BBU Board Maintenance Link Failure', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit Maintenance Link Failure', 'User Plane Path Fault', 'IKE Negotiation Failure', 'BBU Board Maintenance Link Failure', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'NR Cell Unavailable', 'gNodeB X2 Interface Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'NR Cell Unavailable', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"BBU Board Maintenance Link Failure', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit Maintenance Link Failure', 'BBU Board Maintenance Link Failure', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'NR Cell Unavailable', 'gNodeB X2 Interface Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'NR Cell Unavailable', 'User Plane Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit Maintenance Link Failure', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'BBU Board Maintenance Link Failure', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit DC Input Power Failure', 'NR Cell Unavailable', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'IKE Negotiation Failure', 'BBU Board Maintenance Link Failure', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'User Plane Path Fault', 'IKE Negotiation Failure', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'BBU Board Maintenance Link Failure', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'RF Unit Maintenance Link Failure', 'IKE Negotiation Failure', 'BBU Board Maintenance Link Failure', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'RF Unit Maintenance Link Failure', 'User Plane Path Fault', 'IKE Negotiation Failure', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'RF Unit Maintenance Link Failure', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'User Plane Path Fault', 'IKE Negotiation Failure', 'BBU Board Maintenance Link Failure', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'BBU Board Maintenance Link Failure', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'IKE Negotiation Failure', 'BBU Board Maintenance Link Failure', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'User Plane Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'User Plane Fault', 'gNodeB X2 Interface Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"gNodeB X2 Interface Fault', 'NR Cell Unavailable', 'RF Unit Maintenance Link Failure', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'BBU Board Maintenance Link Failure', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'RF Unit Maintenance Link Failure', 'User Plane Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'User Plane Path Fault', 'IKE Negotiation Failure', 'BBU Board Maintenance Link Failure', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"gNodeB X2 Interface Fault', 'NR Cell Unavailable', 'RF Unit Maintenance Link Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'gNodeB X2 Interface Fault', 'gNodeB Out of Service', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit DC Input Power Failure', 'User Plane Fault', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'User Plane Path Fault', 'IKE Negotiation Failure', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"gNodeB X2 Interface Fault', 'User Plane Fault', 'RF Unit Maintenance Link Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'IKE Negotiation Failure', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'gNodeB X2 Interface Fault', 'User Plane Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'User Plane Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"gNodeB X2 Interface Fault', 'NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"gNodeB X2 Interface Fault', 'NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR Cell Unavailable', 'RF Unit Maintenance Link Failure', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR Cell Unavailable', 'RF Unit Maintenance Link Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'NR Cell Unavailable', 'RF Unit Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR Cell Unavailable', 'User Plane Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR Cell Unavailable', 'gNodeB X2 Interface Fault', 'NR DU Cell TRP Capability Degraded",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR Cell Unavailable', 'gNodeB X2 Interface Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR DU Cell Blocked', 'gNodeB X2 Interface Fault', 'gNodeB Out of Service",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR DU Cell Blocked', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR Cell Unavailable', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR DU Cell Blocked', 'gNodeB Out of Service', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR Cell Unavailable', 'User Plane Fault', 'NR DU Cell TRP Capability Degraded",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"BBU Topology and Configuration Mismatch', 'gNodeB X2 Interface Fault', 'Inter-System Communication Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"gNodeB Out of Service', 'BBU Topology and Configuration Mismatch', 'gNodeB X2 Interface Fault', 'Inter-System Communication Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'BBU Topology and Configuration Mismatch', 'gNodeB Out of Service', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'BBU Topology and Configuration Mismatch', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'BBU Topology and Configuration Mismatch', 'gNodeB X2 Interface Fault', 'gNodeB Out of Service",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"gNodeB Out of Service', 'BBU Topology and Configuration Mismatch', 'Inter-System Communication Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'BBU Topology and Configuration Mismatch', 'Inter-System Communication Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'gNodeB Out of Service', 'BBU Topology and Configuration Mismatch', 'Inter-System Communication Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'BBU Topology and Configuration Mismatch', 'gNodeB X2 Interface Fault', 'Inter-System Communication Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'gNodeB Out of Service', 'Inter-System Communication Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'Inter-System Communication Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'gNodeB Out of Service', 'gNodeB X2 Interface Fault', 'Inter-System Communication Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR Cell Unavailable', 'RF Unit Maintenance Link Failure', 'NR DU Cell TRP Capability Degraded",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"BBU Topology and Configuration Mismatch', 'gNodeB X2 Interface Fault', 'gNodeB Out of Service', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR DU Cell Blocked', 'Inter-System Communication Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR DU Cell Blocked', 'Inter-System Communication Failure', 'gNodeB Out of Service",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR DU Cell Blocked', 'gNodeB X2 Interface Fault', 'Inter-System Communication Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR DU Cell TRP Capability Degraded', 'User Plane Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"User Plane Fault', 'gNodeB X2 Interface Fault', 'Inter-System Communication Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'User Plane Fault', 'Inter-System Communication Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'Inter-System Communication Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit DC Input Power Failure', 'NR Cell Unavailable', 'User Plane Fault', 'Inter-System Communication Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit DC Input Power Failure', 'NR Cell Unavailable', 'Inter-System Communication Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit DC Input Power Failure', 'NR Cell Unavailable', 'gNodeB X2 Interface Fault', 'Inter-System Communication Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'User Plane Fault', 'Inter-System Communication Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'gNodeB X2 Interface Fault', 'Inter-System Communication Failure', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'gNodeB X2 Interface Fault', 'Inter-System Communication Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'gNodeB X2 Interface Fault', 'Inter-System Communication Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit DC Input Power Failure', 'User Plane Fault', 'Inter-System Communication Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit DC Input Power Failure', 'User Plane Fault', 'gNodeB X2 Interface Fault', 'Inter-System Communication Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit DC Input Power Failure', 'gNodeB X2 Interface Fault', 'Inter-System Communication Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'User Plane Fault', 'Inter-System Communication Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'User Plane Fault', 'gNodeB X2 Interface Fault', 'Inter-System Communication Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'gNodeB Out of Service', 'Inter-System Communication Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'gNodeB Out of Service', 'gNodeB X2 Interface Fault', 'Inter-System Communication Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'User Plane Fault', 'RF Unit Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'RF Unit Maintenance Link Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'User Plane Fault', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'gNodeB Out of Service', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'User Plane Fault', 'IP PM Activation Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'User Plane Fault', 'RF Unit Maintenance Link Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR DU Cell TRP Capability Degraded', 'gNodeB X2 Interface Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR DU Cell TRP Capability Degraded', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'NR Cell Unavailable', 'gNodeB X2 Interface Fault', 'Inter-System Communication Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'User Plane Fault', 'gNodeB X2 Interface Fault', 'IP PM Activation Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'NR Cell Unavailable', 'Inter-System Communication Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'User Plane Path Fault', 'gNodeB X2 Interface Fault', 'IP PM Activation Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"User Plane Path Fault', 'gNodeB X2 Interface Fault', 'User Plane Fault', 'IP PM Activation Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'NR Cell Unavailable', 'Inter-System Communication Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'NR Cell Unavailable', 'User Plane Fault', 'Inter-System Communication Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'BBU Board Maintenance Link Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'User Plane Path Fault', 'IKE Negotiation Failure', 'BBU Board Maintenance Link Failure', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'BBU Board Maintenance Link Failure', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'BBU Board Maintenance Link Failure', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'User Plane Path Fault', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'BBU Board Maintenance Link Failure', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'RF Unit Maintenance Link Failure', 'User Plane Path Fault', 'IKE Negotiation Failure', 'BBU Board Maintenance Link Failure', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'RF Unit Maintenance Link Failure', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'BBU Board Maintenance Link Failure', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'RF Unit Maintenance Link Failure', 'BBU Board Maintenance Link Failure', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'BBU Board Maintenance Link Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'User Plane Path Fault', 'gNodeB X2 Interface Fault', 'BBU Board Maintenance Link Failure', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'RF Unit Maintenance Link Failure', 'User Plane Path Fault', 'gNodeB X2 Interface Fault', 'BBU Board Maintenance Link Failure', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'User Plane Path Fault', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'BBU Board Maintenance Link Failure', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit Maintenance Link Failure', 'User Plane Path Fault', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'BBU Board Maintenance Link Failure', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'User Plane Path Fault', 'BBU Board Maintenance Link Failure', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'gNodeB X2 Interface Fault', 'BBU Board Maintenance Link Failure', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'gNodeB X2 Interface Fault', 'User Plane Path Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'RF Unit DC Input Power Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'RF Unit Maintenance Link Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'gNodeB X2 Interface Fault', 'User Plane Path Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'NR DU Cell Blocked', 'gNodeB X2 Interface Fault', 'User Plane Path Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'User Plane Path Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'gNodeB X2 Interface Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'BBU Board Maintenance Link Failure', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'BBU Board Maintenance Link Failure', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'IKE Negotiation Failure', 'BBU Board Maintenance Link Failure', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'BBU Board Maintenance Link Failure', 'IKE Negotiation Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'User Plane Path Fault', 'IKE Negotiation Failure', 'BBU Board Maintenance Link Failure', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'User Plane Path Fault', 'gNodeB X2 Interface Fault', 'BBU Board Maintenance Link Failure', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'BBU Board Maintenance Link Failure', 'IKE Negotiation Failure', 'User Plane Path Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'BBU Board Maintenance Link Failure', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'BBU Board Maintenance Link Failure', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'Inter-System Communication Failure', 'RF Unit DC Input Power Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"Inter-System Communication Failure', 'RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'gNodeB X2 Interface Fault', 'User Plane Path Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'gNodeB X2 Interface Fault', 'User Plane Path Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'BBU Board Maintenance Link Failure', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"BBU Topology and Configuration Mismatch', 'Inter-System Communication Failure', 'IKE Negotiation Failure', 'NR DU Cell Blocked', 'gNodeB X2 Interface Fault', 'gNodeB Out of Service', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'Inter-System Communication Failure', 'RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'gNodeB X2 Interface Fault', 'User Plane Path Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'BBU Board Maintenance Link Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'RF Unit Maintenance Link Failure', 'BBU Board Maintenance Link Failure', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'BBU Board Maintenance Link Failure', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'Inter-System Communication Failure', 'NR DU Cell Blocked', 'gNodeB X2 Interface Fault', 'User Plane Path Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"BBU Topology and Configuration Mismatch', 'Inter-System Communication Failure', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'gNodeB Out of Service', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"BBU Topology and Configuration Mismatch', 'IKE Negotiation Failure', 'NR DU Cell Blocked', 'gNodeB X2 Interface Fault', 'gNodeB Out of Service', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"BBU Topology and Configuration Mismatch', 'Inter-System Communication Failure', 'NR DU Cell Blocked', 'gNodeB X2 Interface Fault', 'gNodeB Out of Service', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"Inter-System Communication Failure', 'IKE Negotiation Failure', 'NR DU Cell Blocked', 'gNodeB X2 Interface Fault', 'gNodeB Out of Service', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'IKE Negotiation Failure', 'User Plane Path Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"BBU Topology and Configuration Mismatch', 'Inter-System Communication Failure', 'IKE Negotiation Failure', 'NR DU Cell Blocked', 'gNodeB Out of Service', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"BBU Topology and Configuration Mismatch', 'Inter-System Communication Failure', 'IKE Negotiation Failure', 'NR DU Cell Blocked', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"BBU Topology and Configuration Mismatch', 'Inter-System Communication Failure', 'IKE Negotiation Failure', 'NR DU Cell Blocked', 'gNodeB X2 Interface Fault', 'gNodeB Out of Service",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'Inter-System Communication Failure', 'RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'User Plane Path Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'Inter-System Communication Failure', 'RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'gNodeB X2 Interface Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'Inter-System Communication Failure', 'RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'RF Unit Maintenance Link Failure', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"BBU Topology and Configuration Mismatch', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'gNodeB Out of Service', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"BBU Topology and Configuration Mismatch', 'Inter-System Communication Failure', 'NR DU Cell Blocked', 'gNodeB Out of Service', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"BBU Topology and Configuration Mismatch', 'Inter-System Communication Failure', 'NR DU Cell Blocked', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"BBU Topology and Configuration Mismatch', 'Inter-System Communication Failure', 'NR DU Cell Blocked', 'gNodeB X2 Interface Fault', 'gNodeB Out of Service",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"BBU Topology and Configuration Mismatch', 'IKE Negotiation Failure', 'NR DU Cell Blocked', 'gNodeB X2 Interface Fault', 'gNodeB Out of Service",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"BBU Topology and Configuration Mismatch', 'Inter-System Communication Failure', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"BBU Topology and Configuration Mismatch', 'Inter-System Communication Failure', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'gNodeB Out of Service",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"BBU Topology and Configuration Mismatch', 'IKE Negotiation Failure', 'NR DU Cell Blocked', 'gNodeB Out of Service', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"BBU Topology and Configuration Mismatch', 'IKE Negotiation Failure', 'NR DU Cell Blocked', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"Inter-System Communication Failure', 'IKE Negotiation Failure', 'NR DU Cell Blocked', 'gNodeB X2 Interface Fault', 'gNodeB Out of Service",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"Inter-System Communication Failure', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'gNodeB Out of Service', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'IKE Negotiation Failure', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'IKE Negotiation Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"BBU Topology and Configuration Mismatch', 'Inter-System Communication Failure', 'gNodeB X2 Interface Fault', 'gNodeB Out of Service', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"BBU Topology and Configuration Mismatch', 'NR DU Cell Blocked', 'gNodeB X2 Interface Fault', 'gNodeB Out of Service', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"Inter-System Communication Failure', 'IKE Negotiation Failure', 'NR DU Cell Blocked', 'gNodeB Out of Service', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"Inter-System Communication Failure', 'IKE Negotiation Failure', 'NR DU Cell Blocked', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'RF Unit Maintenance Link Failure', 'BBU Board Maintenance Link Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'BBU Board Maintenance Link Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'User Plane Path Fault', 'BBU Board Maintenance Link Failure', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'RF Unit Maintenance Link Failure', 'gNodeB X2 Interface Fault', 'BBU Board Maintenance Link Failure', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'RF Unit Maintenance Link Failure', 'User Plane Path Fault', 'BBU Board Maintenance Link Failure', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'gNodeB X2 Interface Fault', 'BBU Board Maintenance Link Failure', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"BBU Topology and Configuration Mismatch', 'Inter-System Communication Failure', 'IKE Negotiation Failure', 'gNodeB Out of Service', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"BBU Topology and Configuration Mismatch', 'Inter-System Communication Failure', 'IKE Negotiation Failure', 'NR DU Cell Blocked', 'gNodeB X2 Interface Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"BBU Topology and Configuration Mismatch', 'Inter-System Communication Failure', 'IKE Negotiation Failure', 'NR DU Cell Blocked', 'gNodeB Out of Service",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'BBU Board Maintenance Link Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'BBU Board Maintenance Link Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit Maintenance Link Failure', 'BBU Board Maintenance Link Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"BBU Topology and Configuration Mismatch', 'Inter-System Communication Failure', 'IKE Negotiation Failure', 'NR DU Cell Blocked', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'Inter-System Communication Failure', 'RF Unit DC Input Power Failure', 'User Plane Path Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'Inter-System Communication Failure', 'RF Unit DC Input Power Failure', 'gNodeB X2 Interface Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'Inter-System Communication Failure', 'RF Unit DC Input Power Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'Inter-System Communication Failure', 'RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'gNodeB X2 Interface Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'Inter-System Communication Failure', 'NR DU Cell Blocked', 'User Plane Path Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'Inter-System Communication Failure', 'NR DU Cell Blocked', 'gNodeB X2 Interface Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'Inter-System Communication Failure', 'NR DU Cell Blocked', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"Inter-System Communication Failure', 'NR DU Cell Blocked', 'gNodeB X2 Interface Fault', 'gNodeB Out of Service', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"Inter-System Communication Failure', 'RF Unit DC Input Power Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'User Plane Path Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'gNodeB X2 Interface Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"Inter-System Communication Failure', 'NR DU Cell Blocked', 'gNodeB X2 Interface Fault', 'User Plane Path Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'Inter-System Communication Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"Inter-System Communication Failure', 'RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'User Plane Path Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"Inter-System Communication Failure', 'RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'gNodeB X2 Interface Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"Inter-System Communication Failure', 'RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'RF Unit Maintenance Link Failure', 'IKE Negotiation Failure', 'User Plane Path Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'RF Unit Maintenance Link Failure', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'RF Unit Maintenance Link Failure', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'IKE Negotiation Failure', 'User Plane Path Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit Maintenance Link Failure', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'gNodeB X2 Interface Fault', 'IP PM Activation Failure', 'User Plane Path Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'Inter-System Communication Failure', 'RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'Inter-System Communication Failure', 'RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR DU Cell Blocked', 'gNodeB X2 Interface Fault', 'gNodeB Out of Service', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'IKE Negotiation Failure', 'User Plane Path Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR DU Cell Blocked', 'BBU Topology and Configuration Mismatch', 'Inter-System Communication Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'NR Cell Unavailable', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'RF Unit Maintenance Link Failure', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"User Plane Fault', 'NR Cell Unavailable', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'BBU Board Maintenance Link Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'BBU Board Maintenance Link Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'BBU Board Maintenance Link Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'gNodeB X2 Interface Fault', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'User Plane Fault', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'gNodeB X2 Interface Fault', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'User Plane Fault', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit DC Input Power Failure', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit DC Input Power Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit DC Input Power Failure', 'gNodeB X2 Interface Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"User Plane Fault', 'RF Unit Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit Maintenance Link Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"gNodeB Out of Service', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"gNodeB X2 Interface Fault', 'gNodeB Out of Service",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'gNodeB X2 Interface Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR DU Cell TRP Capability Degraded', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'RF Unit Maintenance Link Failure', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR Cell Unavailable', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'BBU Topology and Configuration Mismatch', 'gNodeB Out of Service",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'BBU Topology and Configuration Mismatch', 'gNodeB X2 Interface Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"BBU Topology and Configuration Mismatch', 'gNodeB Out of Service', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"BBU Topology and Configuration Mismatch', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'BBU Topology and Configuration Mismatch', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"BBU Topology and Configuration Mismatch', 'Inter-System Communication Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"BBU Topology and Configuration Mismatch', 'Inter-System Communication Failure', 'gNodeB Out of Service",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"BBU Topology and Configuration Mismatch', 'gNodeB X2 Interface Fault', 'Inter-System Communication Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"BBU Topology and Configuration Mismatch', 'gNodeB X2 Interface Fault', 'gNodeB Out of Service",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR DU Cell TRP Capability Degraded', 'NR Cell Unavailable",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'Inter-System Communication Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'Inter-System Communication Failure', 'IKE Negotiation Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'Inter-System Communication Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'Inter-System Communication Failure', 'gNodeB Out of Service",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"BBU CPRI Interface Error', 'NR Cell Unavailable', 'RF Unit Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"BBU CPRI Interface Error', 'NR Cell Unavailable', 'gNodeB X2 Interface Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"BBU CPRI Interface Error', 'gNodeB X2 Interface Fault', 'RF Unit Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"User Plane Fault', 'RF Unit Maintenance Link Failure', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"BBU Board Maintenance Link Failure', 'RF Unit Maintenance Link Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit Maintenance Link Failure', 'gNodeB X2 Interface Fault', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"User Plane Fault', 'BBU Board Maintenance Link Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"User Plane Fault', 'gNodeB X2 Interface Fault', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"BBU Board Maintenance Link Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'BBU Topology and Configuration Mismatch', 'Inter-System Communication Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'BBU Topology and Configuration Mismatch', 'gNodeB Out of Service",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'BBU Topology and Configuration Mismatch', 'gNodeB X2 Interface Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'BBU Topology and Configuration Mismatch', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'BBU Topology and Configuration Mismatch', 'Inter-System Communication Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'BBU Topology and Configuration Mismatch', 'IKE Negotiation Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit Maintenance Link Failure', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"User Plane Fault', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"BBU Board Maintenance Link Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"gNodeB X2 Interface Fault', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'BBU CPRI Interface Error",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"BBU Topology and Configuration Mismatch', 'Inter-System Communication Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'BBU Topology and Configuration Mismatch",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"BBU CPRI Interface Error', 'RF Unit Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"BBU CPRI Interface Error', 'gNodeB X2 Interface Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'BBU Topology and Configuration Mismatch",RF Unit CPRI Interface Error,0.2,1.0,1.0
+IP PM Activation Failure,RF Unit CPRI Interface Error,0.2,1.0,1.0
+BBU Topology and Configuration Mismatch,RF Unit CPRI Interface Error,0.2,1.0,1.0
+BBU Board Maintenance Link Failure,RF Unit CPRI Interface Error,0.2,1.0,1.0
+BBU CPRI Interface Error,RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+NR DU Cell TRP Capability Degraded,RF Unit CPRI Interface Error,0.2,1.0,1.0
+RF Unit DC Input Power Failure,RF Unit CPRI Interface Error,0.2,1.0,1.0
+gNodeB Out of Service,RF Unit CPRI Interface Error,0.2,1.0,1.0
+"BBU Topology and Configuration Mismatch', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit DC Input Power Failure', 'Inter-System Communication Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"User Plane Fault', 'Inter-System Communication Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"Inter-System Communication Failure', 'gNodeB Out of Service",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'Inter-System Communication Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit DC Input Power Failure', 'NR DU Cell Blocked",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'gNodeB Out of Service",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'NR Cell Unavailable",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'NR Cell Unavailable",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit DC Input Power Failure', 'NR Cell Unavailable",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR Cell Unavailable",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'IKE Negotiation Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"BBU Topology and Configuration Mismatch', 'gNodeB Out of Service",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"BBU Topology and Configuration Mismatch', 'gNodeB X2 Interface Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'Inter-System Communication Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR DU Cell TRP Capability Degraded",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'IP PM Activation Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"User Plane Fault', 'IP PM Activation Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IP PM Activation Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"gNodeB X2 Interface Fault', 'IP PM Activation Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'RF Unit Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'gNodeB Out of Service",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'User Plane Fault', 'RF Unit Maintenance Link Failure', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR DU Cell TRP Capability Degraded', 'User Plane Fault', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR DU Cell TRP Capability Degraded', 'User Plane Path Fault', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR DU Cell TRP Capability Degraded', 'gNodeB X2 Interface Fault', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'RF Unit Maintenance Link Failure', 'NR DU Cell TRP Capability Degraded', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'User Plane Fault', 'NR DU Cell TRP Capability Degraded', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'User Plane Path Fault', 'NR DU Cell TRP Capability Degraded', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'gNodeB X2 Interface Fault', 'NR DU Cell TRP Capability Degraded', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'User Plane Path Fault', 'RF Unit Maintenance Link Failure', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'RF Unit Maintenance Link Failure', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'User Plane Fault', 'User Plane Path Fault', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'User Plane Fault', 'gNodeB X2 Interface Fault', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'User Plane Path Fault', 'gNodeB X2 Interface Fault', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit DC Input Power Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"User Plane Fault', 'RF Unit Maintenance Link Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit Maintenance Link Failure', 'User Plane Fault', 'gNodeB X2 Interface Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit Maintenance Link Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"gNodeB X2 Interface Fault', 'gNodeB Out of Service', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit DC Input Power Failure', 'User Plane Fault', 'gNodeB X2 Interface Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'gNodeB X2 Interface Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit DC Input Power Failure', 'User Plane Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR Cell Unavailable', 'User Plane Path Fault', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR Cell Unavailable', 'gNodeB X2 Interface Fault', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR Cell Unavailable', 'User Plane Fault', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR Cell Unavailable', 'RF Unit Maintenance Link Failure', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'BBU Topology and Configuration Mismatch', 'Inter-System Communication Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'gNodeB Out of Service', 'BBU Topology and Configuration Mismatch', 'Inter-System Communication Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"User Plane Path Fault', 'RF Unit Maintenance Link Failure', 'User Plane Fault', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"gNodeB X2 Interface Fault', 'User Plane Fault', 'RF Unit Maintenance Link Failure', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"gNodeB X2 Interface Fault', 'User Plane Path Fault', 'RF Unit Maintenance Link Failure', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"User Plane Path Fault', 'gNodeB X2 Interface Fault', 'User Plane Fault', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit Maintenance Link Failure', 'gNodeB X2 Interface Fault', 'NR Cell Unavailable', 'BBU CPRI Interface Error",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'BBU Topology and Configuration Mismatch', 'gNodeB X2 Interface Fault', 'Inter-System Communication Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'BBU Topology and Configuration Mismatch', 'gNodeB Out of Service', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'BBU Topology and Configuration Mismatch', 'gNodeB X2 Interface Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'BBU Topology and Configuration Mismatch', 'gNodeB X2 Interface Fault', 'gNodeB Out of Service",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR DU Cell Blocked', 'BBU Topology and Configuration Mismatch', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR DU Cell Blocked', 'BBU Topology and Configuration Mismatch', 'gNodeB Out of Service",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR DU Cell Blocked', 'BBU Topology and Configuration Mismatch', 'gNodeB X2 Interface Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'RF Unit Maintenance Link Failure', 'User Plane Path Fault', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"gNodeB X2 Interface Fault', 'NR Cell Unavailable', 'RF Unit Maintenance Link Failure', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'User Plane Path Fault', 'User Plane Fault', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'gNodeB X2 Interface Fault', 'User Plane Fault', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'gNodeB X2 Interface Fault', 'User Plane Path Fault', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'RF Unit Maintenance Link Failure', 'User Plane Fault', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'gNodeB X2 Interface Fault', 'User Plane Fault', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'gNodeB X2 Interface Fault', 'User Plane Path Fault', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'User Plane Path Fault', 'User Plane Fault', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'User Plane Fault', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'User Plane Path Fault', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"gNodeB X2 Interface Fault', 'NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'BBU Board Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'User Plane Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'gNodeB X2 Interface Fault', 'IP PM Activation Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"User Plane Fault', 'IP PM Activation Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"User Plane Fault', 'gNodeB X2 Interface Fault', 'IP PM Activation Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"User Plane Path Fault', 'gNodeB X2 Interface Fault', 'IP PM Activation Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'gNodeB Out of Service",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'IP PM Activation Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'User Plane Fault', 'IP PM Activation Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'Inter-System Communication Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'gNodeB X2 Interface Fault', 'Inter-System Communication Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'NR Cell Unavailable', 'Inter-System Communication Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit DC Input Power Failure', 'NR Cell Unavailable', 'Inter-System Communication Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"User Plane Fault', 'NR Cell Unavailable', 'Inter-System Communication Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'Inter-System Communication Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'gNodeB Out of Service', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'IKE Negotiation Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'gNodeB Out of Service', 'IKE Negotiation Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'gNodeB X2 Interface Fault', 'IKE Negotiation Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR Cell Unavailable', 'gNodeB X2 Interface Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR Cell Unavailable', 'RF Unit Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'User Plane Fault', 'NR Cell Unavailable",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR Cell Unavailable', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'User Plane Fault', 'RF Unit Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'RF Unit Maintenance Link Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit Maintenance Link Failure', 'gNodeB X2 Interface Fault', 'IKE Negotiation Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'User Plane Fault', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'User Plane Fault', 'gNodeB X2 Interface Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR DU Cell TRP Capability Degraded', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR DU Cell TRP Capability Degraded', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"IKE Negotiation Failure', 'NR DU Cell TRP Capability Degraded', 'gNodeB X2 Interface Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'User Plane Fault', 'Inter-System Communication Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit DC Input Power Failure', 'User Plane Fault', 'NR Cell Unavailable",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit DC Input Power Failure', 'NR Cell Unavailable', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit DC Input Power Failure', 'NR Cell Unavailable', 'gNodeB X2 Interface Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"User Plane Fault', 'NR Cell Unavailable', 'RF Unit Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'RF Unit Maintenance Link Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'NR Cell Unavailable', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'NR Cell Unavailable', 'gNodeB X2 Interface Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'gNodeB X2 Interface Fault', 'gNodeB Out of Service",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit Maintenance Link Failure', 'NR DU Cell TRP Capability Degraded', 'gNodeB X2 Interface Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'gNodeB X2 Interface Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'gNodeB Out of Service', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'NR Cell Unavailable', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit DC Input Power Failure', 'User Plane Fault', 'Inter-System Communication Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit DC Input Power Failure', 'Inter-System Communication Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit DC Input Power Failure', 'gNodeB X2 Interface Fault', 'Inter-System Communication Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"User Plane Fault', 'Inter-System Communication Failure', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"User Plane Fault', 'gNodeB X2 Interface Fault', 'Inter-System Communication Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"Inter-System Communication Failure', 'gNodeB Out of Service', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"Inter-System Communication Failure', 'gNodeB X2 Interface Fault', 'gNodeB Out of Service",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'Inter-System Communication Failure', 'gNodeB Out of Service",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell TRP Capability Degraded', 'NR Cell Unavailable', 'RF Unit Maintenance Link Failure",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'NR Cell Unavailable', 'gNodeB X2 Interface Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"RF Unit DC Input Power Failure', 'NR DU Cell Blocked', 'NR Cell Unavailable",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'User Plane Fault', 'NR Cell Unavailable",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR DU Cell Blocked', 'NR Cell Unavailable', 'User Plane Path Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
+"NR Cell Unavailable', 'NR DU Cell TRP Capability Degraded', 'RF Unit Maintenance Link Failure', 'BBU Board Maintenance Link Failure', 'IKE Negotiation Failure', 'gNodeB X2 Interface Fault', 'User Plane Path Fault', 'User Plane Fault",RF Unit CPRI Interface Error,0.2,1.0,1.0
